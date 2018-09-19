@@ -11,6 +11,10 @@ def show_venue(game):
     print("GAME ID: %s" % game.bbgame.venue['gameid'])
     print("VISITOR: %s" % game.bbgame.venue['visname'])
     print("   HOME: %s" % game.bbgame.venue['homename'])
+    print("   DATE: %s" % game.bbgame.venue['date'])
+    print("   TIME: %s" % game.bbgame.venue['time'])
+    print("  WHERE: %s" % game.bbgame.venue['location'])
+    print(" ATTEND: %s" % game.bbgame.venue['attend'])
 
 def show_plays(game):
     for item in game.bbgame.plays:
@@ -19,7 +23,10 @@ def show_plays(game):
             print ("")
             print ("BEGIN HALF %s" % per['number'])
             for play in per.play:
-                print("[%s] %s by %s (%s)." % (play['time'], play['action'], play['checkname'], play['team']))
+                if play['action'] == 'SUB' and play['team'] == 'BING':
+                    print("[%s] %s %s %s (%s)." % \
+                        (play['time'], play['action'], play['type'], play['checkname'], play['team']))
+                    # print("[%s] %s %s (%s)." % (play['time'], play['action'], play['checkname'], play['team']))
 
 # ======
 # main()
