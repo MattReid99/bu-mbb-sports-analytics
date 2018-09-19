@@ -1,0 +1,118 @@
+<bbseas source="STAT CREW BASKETBALL" version="1.1.2" date="2/13/2018">
+  <venue type="" ncaadivision="1"></venue>
+  <team code="BING" id="BING" name="Binghamton Univ." season="2016-17" conf="AE" coach="Dempsey"
+           overall="8-22" confonly="5-11" home="5-9" away="3-13" neutral="0-0"
+           streak="-1" homestreak="2"></team>
+  <totals gp="30"
+           fgm="629" fga="1614" fgm3="171" fga3="599" ftm="398" fta="584" tp="1827" oreb="273" dreb="748" treb="1021"
+           blk="68" stl="161" ast="333" to="419" pf="558" tf="2" min="6025" dq="19" deadball="82,4"></totals>
+  <opponent gp="30"
+           fgm="728" fga="1675" fgm3="204" fga3="606" ftm="399" fta="575" tp="2059" oreb="296" dreb="810" treb="1106"
+           blk="84" stl="211" ast="397" to="371" pf="553" tf="6" min="6025" dq="10" deadball="76,4"></opponent>
+  <player name="Marlon Beck II" checkname="II,MARLON BECK" uni="01" code="01" pos="G" year="JR" gs="28" gp="30"
+           fgm="92" fga="263" fgm3="73" fga3="204" ftm="38" fta="56" tp="295" oreb="9" dreb="72" treb="81"
+           blk="1" stl="36" ast="62" to="44" pf="66" tf="0" min="984" dq="0"></player>
+  <player name="Timmy Rose" checkname="ROSE,TIMMY" uni="04" code="04" pos="G" year="FR" gs="2" gp="30"
+           fgm="36" fga="90" fgm3="11" fga3="41" ftm="14" fta="29" tp="97" oreb="6" dreb="36" treb="42"
+           blk="0" stl="13" ast="46" to="29" pf="34" tf="0" min="414" dq="1"></player>
+  <player name="Romello Walker" checkname="WALKER,ROMELLO" uni="11" code="11" pos="G" year="SO" gs="2" gp="7"
+           fgm="11" fga="42" fgm3="4" fga3="21" ftm="8" fta="11" tp="34" oreb="3" dreb="19" treb="22"
+           blk="3" stl="1" ast="7" to="12" pf="11" tf="0" min="127" dq="0"></player>
+  <player name="John Rinaldi" checkname="RINALDI,JOHN" uni="12" code="12" pos="G" year="JR" gs="0" gp="26"
+           fgm="8" fga="12" fgm3="0" fga3="1" ftm="6" fta="9" tp="22" oreb="9" dreb="33" treb="42"
+           blk="0" stl="9" ast="12" to="12" pf="19" tf="0" min="177" dq="0"></player>
+  <player name="Jordan McRae" checkname="MCRAE,JORDAN" uni="14" code="14" pos="F" year="FR" gs="0" gp="6"
+           fgm="1" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" oreb="0" dreb="0" treb="0"
+           blk="0" stl="0" ast="0" to="0" pf="1" tf="0" min="10" dq="0"></player>
+  <player name="Bobby Ahearn" checkname="AHEARN,BOBBY" uni="15" code="15" pos="F" year="SO" gs="10" gp="29"
+           fgm="55" fga="112" fgm3="0" fga3="0" ftm="30" fta="40" tp="140" oreb="31" dreb="71" treb="102"
+           blk="5" stl="6" ast="17" to="30" pf="72" tf="0" min="472" dq="5"></player>
+  <player name="Everson Davis" checkname="DAVIS,EVERSON" uni="22" code="22" pos="G" year="FR" gs="29" gp="30"
+           fgm="95" fga="271" fgm3="10" fga3="59" ftm="81" fta="112" tp="281" oreb="21" dreb="104" treb="125"
+           blk="8" stl="23" ast="75" to="92" pf="85" tf="1" min="862" dq="5"></player>
+  <player name="Justin McFadden" checkname="MCFADDEN,JUSTIN" uni="25" code="25" pos="F" year="SO" gs="20" gp="29"
+           fgm="34" fga="98" fgm3="11" fga3="43" ftm="43" fta="61" tp="122" oreb="31" dreb="78" treb="109"
+           blk="11" stl="22" ast="28" to="45" pf="70" tf="0" min="662" dq="2"></player>
+  <player name="John Schurman" checkname="SCHURMAN,JOHN" uni="30" code="30" pos="G" year="FR" gs="0" gp="24"
+           fgm="16" fga="62" fgm3="12" fga3="53" ftm="0" fta="1" tp="44" oreb="7" dreb="15" treb="22"
+           blk="1" stl="3" ast="2" to="3" pf="11" tf="0" min="175" dq="0"></player>
+  <player name="Thomas Bruce" checkname="BRUCE,THOMAS" uni="32" code="32" pos="C" year="FR" gs="19" gp="26"
+           fgm="68" fga="126" fgm3="0" fga3="0" ftm="40" fta="84" tp="176" oreb="46" dreb="83" treb="129"
+           blk="26" stl="12" ast="22" to="38" pf="54" tf="0" min="715" dq="3"></player>
+  <player name="Dusan Perovic" checkname="PEROVIC,DUSAN" uni="41" code="41" pos="C" year="SO" gs="10" gp="30"
+           fgm="57" fga="190" fgm3="28" fga3="93" ftm="20" fta="27" tp="162" oreb="10" dreb="60" treb="70"
+           blk="4" stl="4" ast="23" to="25" pf="51" tf="0" min="482" dq="0"></player>
+  <player name="Willie Rodriguez" checkname="RODRIGUEZ,WILLIE" uni="42" code="42" pos="F" year="SO" gs="30" gp="30"
+           fgm="156" fga="346" fgm3="22" fga3="84" ftm="118" fta="154" tp="452" oreb="66" dreb="134" treb="200"
+           blk="9" stl="32" ast="39" to="78" pf="84" tf="0" min="945" dq="3"></player>
+  <player name="TEAM" checkname="TEAM" uni="TM" code="TM" gs="0" gp="30"
+           fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" oreb="34" dreb="43" treb="77"
+           blk="0" stl="0" ast="0" to="11" pf="0" tf="1" min="0" dq="0"></player>
+  <periods>
+    <period number="1" ownscore="855" oppscore="943"></period>
+    <period number="2" ownscore="966" oppscore="1109"></period>
+    <period number="3" ownscore="6" oppscore="7"></period>
+  </periods>
+  <games>
+    <game number="1" gameid="15-1" date="11/13/2015" oppcode="596" oppid="BONA" oppname="St. Bonaventure" site="Reilly Center, St. Bonaventure, NY"
+             ownscore="53" oppscore="63" periods="2" homeaway="A" attend="4277"></game>
+    <game number="2" gameid="15-2" date="11/15/2015" oppcode="725" oppid="ARMY" oppname="Army West Point" site="Events Center, Vestal, N.Y."
+             ownscore="60" oppscore="75" periods="2" homeaway="H" attend="2550"></game>
+    <game number="3" gameid="15-3" date="11/18/2015" oppcode="167" oppid="COR" oppname="Cornell" site="Ithaca, N.Y. (Newman Arena)"
+             ownscore="59" oppscore="76" periods="2" homeaway="A" attend="1204"></game>
+    <game number="4" gameid="15-4" date="11/24/2015" oppcode="" oppid="CCSU" oppname="Central Connecticut" site="New Britain, CT (Detrick Gymnasium)"
+             ownscore="81" oppscore="75" periods="2" homeaway="A" attend="1012"></game>
+    <game number="5" gameid="15-5" date="11/28/2015" oppcode="" oppid="BOSTON" oppname="Boston Univ." site="Bai Lee Court, Events Center, Vestal, NY"
+             ownscore="65" oppscore="75" periods="2" homeaway="H" attend="3528"></game>
+    <game number="6" gameid="15-6" date="12/1/2015" oppcode="153" oppid="COLGATE" oppname="COLGATE" site="Bai Lee Court, Events Center, Vestal, NY"
+             ownscore="69" oppscore="50" periods="2" homeaway="H" attend="1714"></game>
+    <game number="7" gameid="15-7" date="12/5/2015" oppcode="416" oppid="MSU" oppname="Michigan State" site="East Lansing, Mich. // Breslin Center"
+             ownscore="33" oppscore="76" periods="2" homeaway="A" attend="14797"></game>
+    <game number="8" gameid="15-8" date="12/7/2015" oppcode="514" oppid="OAKLAND" oppname="Oakland" site="Rochester, Mich.(Blacktop at the O'rena)"
+             ownscore="72" oppscore="83" periods="2" homeaway="A" attend="2006"></game>
+    <game number="9" gameid="15-9" date="12/12/2015" oppcode="86" oppid="UB" oppname="Buffalo" site="Alumni Arena (Buffalo, NY)"
+             ownscore="64" oppscore="80" periods="2" homeaway="A" attend="3031"></game>
+    <game number="10" gameid="15-10" date="12/15/2015" oppcode="" oppid="SFUM" oppname="St. Francis (Pa.)" site="Bai Lee Court, Events Center, Vestal, NY"
+             ownscore="61" oppscore="67" periods="2" homeaway="H" attend="1870"></game>
+    <game number="11" gameid="15-11" date="12/22/2015" oppcode="231" oppid="FIU" oppname="FIU" site="Bai Lee Court, Events Center, Vestal, NY"
+             ownscore="49" oppscore="66" periods="2" homeaway="H" attend="1602"></game>
+    <game number="12" gameid="15-12" date="12/29/2015" oppcode="" oppid="MOUNT" oppname="MOUNT ST. MARY'S" site="Bai Lee Court, Events Center, Vestal, NY"
+             ownscore="62" oppscore="53" periods="2" homeaway="H" attend="3721"></game>
+    <game number="13" gameid="15-13" date="1/2/2016" oppcode="540" oppid="PENN" oppname="Penn" site="The Palestra (Philadelphia, Pa.)"
+             ownscore="45" oppscore="80" periods="2" homeaway="A" attend="2104"></game>
+    <game number="14" gameid="15-14" date="1/6/2016" oppcode="683" oppid="STONY" oppname="Stony Brook" site="Bai Lee Court, Events Center, Vestal, NY" leaguegame="Y"
+             ownscore="52" oppscore="62" periods="2" homeaway="H" attend="1715"></game>
+    <game number="15" gameid="15-15" date="1/9/2016" oppcode="" oppid="UNH" oppname="UNH" site="Lundholm Gymnasium" leaguegame="Y"
+             ownscore="43" oppscore="58" periods="2" homeaway="A" attend="1060"></game>
+    <game number="16" gameid="15-16" date="1/13/2016" oppcode="272" oppid="HARTFORD" oppname="Hartford" site="Bai Lee Court, Events Center, Vestal, NY" leaguegame="Y"
+             ownscore="72" oppscore="76" periods="2" homeaway="H" attend="1663"></game>
+    <game number="17" gameid="15-17" date="1/18/2016" oppcode="" oppid="ALBANY" oppname="UAlbany" site="SEFCU Arena, Albany, N.Y." leaguegame="Y"
+             ownscore="59" oppscore="80" periods="2" homeaway="A" attend="2418"></game>
+    <game number="18" gameid="15-18" date="1/21/2016" oppcode="738" oppid="VERMONT" oppname="Vermont" site="Bai Lee Court, Events Center, Vestal, NY" leaguegame="Y"
+             ownscore="52" oppscore="61" periods="2" homeaway="H" attend="2314"></game>
+    <game number="19" gameid="15-19" date="1/24/2016" oppcode="368" oppid="UML" oppname="UMass Lowell" site="Lowell, Mass. (Tsongas Center)" leaguegame="Y"
+             ownscore="64" oppscore="57" periods="2" homeaway="A" attend="1276"></game>
+    <game number="20" gameid="15-20" date="1/27/2016" oppcode="391" oppid="UMBC" oppname="UMBC" site="Bai Lee Court, Events Center, Vestal, NY" leaguegame="Y"
+             ownscore="66" oppscore="57" periods="2" homeaway="H" attend="2013"></game>
+    <game number="21" gameid="15-21" date="1/30/2016" oppcode="380" oppid="MAINE" oppname="Maine" site="Cross Insurance Center - Bangor, Maine" leaguegame="Y"
+             ownscore="63" oppscore="74" periods="2" homeaway="A" attend="1537"></game>
+    <game number="22" gameid="15-22" date="2/3/2016" oppcode="683" oppid="SBU" oppname="Stony Brook" site="IFCU Arena (Stony Brook, N.Y.)" leaguegame="Y"
+             ownscore="51" oppscore="76" periods="2" homeaway="A" attend="3329"></game>
+    <game number="23" gameid="15-23" date="2/6/2016" oppcode="" oppid="UNH" oppname="UNH" site="Bai Lee Court, Events Center, Vestal, NY" leaguegame="Y"
+             ownscore="55" oppscore="59" periods="2" homeaway="H" attend="2642"></game>
+    <game number="24" gameid="15-24" date="2/8/2016" oppcode="" oppid="ALBANY" oppname="UAlbany" site="Bai Lee Court, Events Center, Vestal, NY" leaguegame="Y"
+             ownscore="56" oppscore="69" periods="2" homeaway="H" attend="4923"></game>
+    <game number="25" gameid="15-25" date="2/11/2016" oppcode="272" oppid="UHART" oppname="Hartford" site="West Hartford, CT" leaguegame="Y"
+             ownscore="68" oppscore="54" periods="2" homeaway="A" attend="1330"></game>
+    <game number="26" gameid="15-26" date="2/17/2016" oppcode="738" oppid="VERMONT" oppname="Vermont" site="Patrick Gym - Burlington, Vt." leaguegame="Y"
+             ownscore="64" oppscore="78" periods="2" homeaway="A" attend="1989"></game>
+    <game number="27" gameid="15-27" date="2/20/2016" oppcode="368" oppid="UML" oppname="UMass Lowell" site="Bai Lee Court, Events Center, Vestal, NY" leaguegame="Y"
+             ownscore="81" oppscore="77" periods="2" homeaway="H" attend="2884"></game>
+    <game number="28" gameid="15-28" date="2/24/2016" oppcode="391" oppid="UMBC" oppname="UMBC" site="RAC Arena, Baltimore, Md." leaguegame="Y"
+             ownscore="79" oppscore="80" periods="3" homeaway="A" attend="938"></game>
+    <game number="29" gameid="15-29" date="2/27/2016" oppcode="380" oppid="MAINE" oppname="Maine" site="Bai Lee Court, Events Center, Vestal, NY" leaguegame="Y"
+             ownscore="78" oppscore="66" periods="2" homeaway="H" attend="2426"></game>
+    <game number="30" gameid="15-30" date="3/2/2016" oppcode="" oppid="UNH" oppname="UNH" site="Lundholm Gym"
+             ownscore="51" oppscore="56" periods="2" homeaway="A" attend="1866"></game>
+  </games>
+</bbseas>

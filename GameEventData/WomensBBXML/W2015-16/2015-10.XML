@@ -1,0 +1,574 @@
+<bbgame source="STAT CREW Basketball" version="4.14.06" generated="3/9/2016">
+  <venue gameid="2015-10"
+           visid="BING" visname="Binghamton"
+           homeid="SHU" homename="Sacred Heart"
+           date="12/12/2015" location="Coach Bike Court (Fairfield, Conn.)"
+           time="1:00 PM" attend="312" schednote=""
+           leaguegame="N" neutralgame="N" postseason="N">
+    <officials text="William Dugan Jr., Jeffery Smith, Randy Mudge"></officials>
+    <rules prds="4" minutes="10" minutesot="5" fouls="5" qh="Q"></rules>
+  </venue>
+  <status complete="Y" period="4" clock="00:00" running="F"></status>
+  <team vh="V" id="BING" name="Binghamton" code="62" record="3-7">
+    <linescore line="19,12,17,12" score="60">
+      <lineprd prd="1" score="19"></lineprd>
+      <lineprd prd="2" score="12"></lineprd>
+      <lineprd prd="3" score="17"></lineprd>
+      <lineprd prd="4" score="12"></lineprd>
+    </linescore>
+    <totals>
+      <stats fgm="18" fga="45" fgm3="7" fga3="14" ftm="17" fta="23" tp="60" blk="1" stl="4" ast="10" min="200" oreb="8" dreb="20" treb="28" pf="13" tf="0" to="13" deadball="2,0"
+             fgpct="40.0" fg3pct="50.0" ftpct="73.9"></stats>
+      <statsbyprd prd="1" fgm="11" fga="26" fgm3="3" fga3="5" ftm="6" fta="7" tp="31" blk="1" stl="2" ast="4" min="100" oreb="4" dreb="11" treb="15" pf="7" tf="0" to="7"></statsbyprd>
+      <statsbyprd prd="2" fgm="7" fga="19" fgm3="4" fga3="9" ftm="11" fta="16" tp="29" blk="0" stl="2" ast="6" min="100" oreb="4" dreb="9" treb="13" pf="6" tf="0" to="6"></statsbyprd>
+      <special vh="V" pts_to="11" pts_ch2="5" pts_bench="3" ties="7" leads="3"
+               poss_count="65" poss_time="1228" score_count="26" score_time="474" large_lead="7" large_lead_t="2nd-05:49"></special>
+    </totals>
+    <player uni="03" code="03" name="WICKS, Tess" checkname="WICKS,TESS" gp="1">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="05" code="05" name="JAMES, Alyssa" checkname="JAMES,ALYSSA" gp="1" gs="1" pos="*" oncourt="Y">
+      <stats fgm="6" fga="11" fgm3="0" fga3="0" ftm="6" fta="9" tp="18" blk="1" stl="1" ast="1" min="39" oreb="3" dreb="7" treb="10" pf="3" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="4" fga="8" fgm3="0" fga3="0" ftm="3" fta="3" tp="11" blk="1" stl="0" ast="0" min="19" oreb="3" dreb="5" treb="8" pf="2" tf="0" to="2" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="3" fgm3="0" fga3="0" ftm="3" fta="6" tp="7" blk="0" stl="1" ast="1" min="20" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="11" code="11" name="WATKINS, Imani" checkname="WATKINS,IMANI" gp="1" gs="1" pos="*" oncourt="Y">
+      <stats fgm="7" fga="16" fgm3="3" fga3="6" ftm="7" fta="8" tp="24" blk="0" stl="2" ast="3" min="40" oreb="0" dreb="3" treb="3" pf="1" tf="0" to="3" dq="0"></stats>
+      <statsbyprd prd="1" fgm="6" fga="10" fgm3="2" fga3="3" ftm="0" fta="0" tp="14" blk="0" stl="1" ast="1" min="20" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="6" fgm3="1" fga3="3" ftm="7" fta="8" tp="10" blk="0" stl="1" ast="2" min="20" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="2" dq="0"></statsbyprd>
+    </player>
+    <player uni="12" code="12" name="HERNANDEZ, McKayla" checkname="HERNANDEZ,MCKAYLA" gp="1" oncourt="Y">
+      <stats fgm="1" fga="4" fgm3="1" fga3="3" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="2" min="33" oreb="0" dreb="3" treb="3" pf="2" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="16" oreb="0" dreb="1" treb="1" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="4" fgm3="1" fga3="3" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="1" min="17" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="13" code="13" name="THOMPSON, Kennedi" checkname="THOMPSON,KENNEDI" gp="1">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="23" code="23" name="ALBRECHT, Kim" checkname="ALBRECHT,KIM" gp="1" gs="1" pos="*">
+      <stats fgm="3" fga="8" fgm3="3" fga3="5" ftm="2" fta="2" tp="11" blk="0" stl="0" ast="2" min="29" oreb="0" dreb="1" treb="1" pf="4" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="4" fgm3="1" fga3="2" ftm="2" fta="2" tp="5" blk="0" stl="0" ast="2" min="14" oreb="0" dreb="1" treb="1" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="4" fgm3="2" fga3="3" ftm="0" fta="0" tp="6" blk="0" stl="0" ast="0" min="15" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="24" code="24" name="ROSS, Kristin" checkname="ROSS,KRISTIN" gp="1" gs="1" pos="*">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="0" min="13" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="0" min="11" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="2" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="31" code="31" name="GODSHALL, Corrinne" checkname="GODSHALL,CORRINNE" gp="0"></player>
+    <player uni="33" code="33" name="CARMODY, Rebecca" checkname="CARMODY,REBECCA" gp="1" gs="1" pos="*" oncourt="Y">
+      <stats fgm="1" fga="6" fgm3="0" fga3="0" ftm="1" fta="2" tp="3" blk="0" stl="0" ast="2" min="30" oreb="1" dreb="2" treb="3" pf="1" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="4" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="16" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="2" fgm3="0" fga3="0" ftm="1" fta="2" tp="3" blk="0" stl="0" ast="2" min="14" oreb="1" dreb="2" treb="3" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="34" code="34" name="LIBBY, Kylie" checkname="LIBBY,KYLIE" gp="1" oncourt="Y">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="15" oreb="1" dreb="3" treb="4" pf="2" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="3" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="12" oreb="1" dreb="2" treb="3" pf="2" tf="0" to="2" dq="0"></statsbyprd>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" gp="1">
+      <stats oreb="3" dreb="0" treb="3" pf="0" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" oreb="2" dreb="0" treb="2" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+  </team>
+  <team vh="H" id="SHU" name="Sacred Heart" code="590" record="2-7">
+    <linescore line="17,14,19,19" score="69">
+      <lineprd prd="1" score="17"></lineprd>
+      <lineprd prd="2" score="14"></lineprd>
+      <lineprd prd="3" score="19"></lineprd>
+      <lineprd prd="4" score="19"></lineprd>
+    </linescore>
+    <totals>
+      <stats fgm="24" fga="54" fgm3="7" fga3="17" ftm="14" fta="17" tp="69" blk="1" stl="3" ast="9" min="200" oreb="12" dreb="23" treb="35" pf="17" tf="0" to="11" deadball="1,0"
+             fgpct="44.4" fg3pct="41.2" ftpct="82.4"></stats>
+      <statsbyprd prd="1" fgm="9" fga="28" fgm3="3" fga3="11" ftm="10" fta="10" tp="31" blk="0" stl="1" ast="4" min="100" oreb="8" dreb="11" treb="19" pf="5" tf="0" to="6"></statsbyprd>
+      <statsbyprd prd="2" fgm="15" fga="26" fgm3="4" fga3="6" ftm="4" fta="7" tp="38" blk="1" stl="2" ast="5" min="100" oreb="4" dreb="12" treb="16" pf="12" tf="0" to="5"></statsbyprd>
+      <special vh="H" pts_to="11" pts_ch2="15" pts_bench="15" ties="3" leads="3"
+               poss_count="64" poss_time="1091" score_count="31" score_time="579" large_lead="10" large_lead_t="3rd-07:39"></special>
+    </totals>
+    <player uni="01" code="01" name="POLYZOU, Cleo" checkname="POLYZOU,CLEO" gp="0"></player>
+    <player uni="02" code="02" name="CARTER, Tykera" checkname="CARTER,TYKERA" gp="1">
+      <stats fgm="1" fga="3" fgm3="1" fga3="2" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="15" oreb="1" dreb="1" treb="2" pf="1" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="3" fgm3="1" fga3="2" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="11" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="03" code="03" name="WILLIAMS, Adaysha" checkname="WILLIAMS,ADAYSHA" gp="1" gs="1" pos="*" oncourt="Y">
+      <stats fgm="3" fga="7" fgm3="0" fga3="1" ftm="1" fta="2" tp="7" blk="0" stl="0" ast="5" min="36" oreb="1" dreb="0" treb="1" pf="2" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="2" min="17" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="3" fga="5" fgm3="0" fga3="1" ftm="1" fta="2" tp="7" blk="0" stl="0" ast="3" min="19" oreb="1" dreb="0" treb="1" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="05" code="05" name="STORCK, Erin" checkname="STORCK,ERIN" gp="1">
+      <stats fgm="2" fga="2" fgm3="2" fga3="2" ftm="0" fta="0" tp="6" blk="0" stl="0" ast="0" min="9" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="6" oreb="1" dreb="1" treb="2" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="12" code="12" name="DURJAN, Danielle" checkname="DURJAN,DANIELLE" gp="0"></player>
+    <player uni="13" code="13" name="HAINES, Katherine" checkname="HAINES,KATHERINE" gp="0"></player>
+    <player uni="20" code="20" name="HICKEY, Shelby" checkname="HICKEY,SHELBY" gp="1" gs="1" pos="*" oncourt="Y">
+      <stats fgm="2" fga="9" fgm3="1" fga3="3" ftm="1" fta="3" tp="6" blk="0" stl="0" ast="2" min="36" oreb="1" dreb="5" treb="6" pf="3" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="3" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="16" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="6" fgm3="1" fga3="2" ftm="1" fta="3" tp="6" blk="0" stl="0" ast="1" min="20" oreb="1" dreb="4" treb="5" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="21" code="21" name="ETTIENNE, Lerae" checkname="ETTIENNE,LERAE" gp="1">
+      <stats fgm="2" fga="4" fgm3="0" fga3="0" ftm="2" fta="2" tp="6" blk="0" stl="1" ast="0" min="13" oreb="2" dreb="0" treb="2" pf="1" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="4" fgm3="0" fga3="0" ftm="2" fta="2" tp="6" blk="0" stl="1" ast="0" min="6" oreb="2" dreb="0" treb="2" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="7" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="22" code="22" name="KIMMEL, Hannah" checkname="KIMMEL,HANNAH" gp="1" gs="1" pos="*" oncourt="Y">
+      <stats fgm="8" fga="15" fgm3="2" fga3="5" ftm="4" fta="4" tp="22" blk="1" stl="2" ast="1" min="37" oreb="3" dreb="9" treb="12" pf="3" tf="0" to="3" dq="0"></stats>
+      <statsbyprd prd="1" fgm="3" fga="8" fgm3="1" fga3="4" ftm="4" fta="4" tp="11" blk="0" stl="0" ast="0" min="17" oreb="1" dreb="6" treb="7" pf="1" tf="0" to="2" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="5" fga="7" fgm3="1" fga3="1" ftm="0" fta="0" tp="11" blk="1" stl="2" ast="1" min="20" oreb="2" dreb="3" treb="5" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="23" code="23" name="LOPEZ, Johanna" checkname="LOPEZ,JOHANNA" gp="0"></player>
+    <player uni="24" code="24" name="YE, Kiana" checkname="YE,KIANA" gp="1">
+      <stats fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="25" code="25" name="HARDEE, Briana" checkname="HARDEE,BRIANA" gp="0"></player>
+    <player uni="33" code="33" name="CANNON, Allison" checkname="CANNON,ALLISON" gp="0"></player>
+    <player uni="34" code="34" name="TARSI, Alissa" checkname="TARSI,ALISSA" gp="1" gs="1" pos="*" oncourt="Y">
+      <stats fgm="5" fga="8" fgm3="0" fga3="0" ftm="4" fta="4" tp="14" blk="0" stl="0" ast="1" min="27" oreb="3" dreb="3" treb="6" pf="3" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="3" fgm3="0" fga3="0" ftm="2" fta="2" tp="6" blk="0" stl="0" ast="1" min="14" oreb="3" dreb="3" treb="6" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="3" fga="5" fgm3="0" fga3="0" ftm="2" fta="2" tp="8" blk="0" stl="0" ast="0" min="13" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="45" code="45" name="CASTRO, Kelcey" checkname="CASTRO,KELCEY" gp="1" gs="1" pos="*" oncourt="Y">
+      <stats fgm="1" fga="5" fgm3="1" fga3="3" ftm="2" fta="2" tp="5" blk="0" stl="0" ast="0" min="24" oreb="0" dreb="0" treb="0" pf="4" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="3" fgm3="0" fga3="2" ftm="2" fta="2" tp="2" blk="0" stl="0" ast="0" min="10" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="2" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="14" oreb="0" dreb="0" treb="0" pf="3" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" gp="1">
+      <stats oreb="0" dreb="4" treb="4" pf="0" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" oreb="0" dreb="4" treb="4" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+  </team>
+  <plays format="tokens">
+    <period number="1" time="10:00">
+      <special vh="V" pts_to="3" pts_ch2="5" pts_bench="0" ties="2" leads="1"
+               poss_count="17" poss_time="387" score_count="8" score_time="179" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="0" pts_ch2="4" pts_bench="4" ties="1" leads="0"
+               poss_count="17" poss_time="213" score_count="7" score_time="122" large_lead="-" large_lead_t="-"></special>
+      <summary vh="V" fgm="11" fga="26" fgm3="3" fga3="5" ftm="6" fta="7" blk="1" stl="2" ast="4"
+               oreb="4" dreb="11" treb="15" pf="7" tf="0" to="7"></summary>
+      <summary vh="H" fgm="9" fga="28" fgm3="3" fga3="11" ftm="10" fta="10" blk="0" stl="1" ast="4"
+               oreb="8" dreb="11" treb="19" pf="5" tf="0" to="6"></summary>
+      <play vh="V" time="09:47" uni="33" team="BING" checkname="CARMODY,REBECCA" action="FOUL"></play>
+      <play vh="H" time="09:47" uni="34" team="SHU" checkname="TARSI,ALISSA" action="GOOD" type="FT" vscore="0" hscore="1"></play>
+      <play vh="H" time="09:47" uni="34" team="SHU" checkname="TARSI,ALISSA" action="GOOD" type="FT" vscore="0" hscore="2"></play>
+      <play vh="V" time="09:34" uni="33" team="BING" checkname="CARMODY,REBECCA" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="09:34" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="09:08" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="09:08" uni="34" team="SHU" checkname="TARSI,ALISSA" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="09:04" uni="34" team="SHU" checkname="TARSI,ALISSA" action="GOOD" type="JUMPER" vscore="0" hscore="4"></play>
+      <play vh="V" time="08:33" uni="23" team="BING" checkname="ALBRECHT,KIM" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="08:33" uni="05" team="BING" checkname="JAMES,ALYSSA" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="08:31" uni="05" team="BING" checkname="JAMES,ALYSSA" action="TURNOVER"></play>
+      <play vh="H" time="08:25" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="08:25" uni="05" team="BING" checkname="JAMES,ALYSSA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="08:13" uni="23" team="BING" checkname="ALBRECHT,KIM" action="MISS" type="3PTR"></play>
+      <play vh="H" time="08:13" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:59" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="MISS" type="3PTR"></play>
+      <play vh="V" time="07:59" uni="23" team="BING" checkname="ALBRECHT,KIM" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:33" uni="05" team="BING" checkname="JAMES,ALYSSA" action="GOOD" type="LAYUP" paint="Y" vscore="2" hscore="4"></play>
+      <play vh="H" time="07:18" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="GOOD" type="3PTR" vscore="2" hscore="7"></play>
+      <play vh="H" time="07:18" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="ASSIST"></play>
+      <play vh="H" time="06:58" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="FOUL"></play>
+      <play vh="V" time="06:58" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="SUB" type="IN"></play>
+      <play vh="V" time="06:58" uni="24" team="BING" checkname="ROSS,KRISTIN" action="SUB" type="OUT"></play>
+      <play vh="V" time="06:36" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="3PTR" vscore="5" hscore="7"></play>
+      <play vh="V" time="06:36" uni="23" team="BING" checkname="ALBRECHT,KIM" action="ASSIST"></play>
+      <play vh="H" time="06:17" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="GOOD" type="JUMPER" vscore="5" hscore="9"></play>
+      <play vh="V" time="05:43" uni="05" team="BING" checkname="JAMES,ALYSSA" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="05:43" uni="34" team="SHU" checkname="TARSI,ALISSA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="05:38" uni="23" team="BING" checkname="ALBRECHT,KIM" action="FOUL"></play>
+      <play vh="H" time="05:38" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="GOOD" type="FT" vscore="5" hscore="10"></play>
+      <play vh="H" time="05:38" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="GOOD" type="FT" vscore="5" hscore="11"></play>
+      <play vh="V" time="05:19" uni="23" team="BING" checkname="ALBRECHT,KIM" action="GOOD" type="3PTR" vscore="8" hscore="11"></play>
+      <play vh="V" time="05:19" uni="11" team="BING" checkname="WATKINS,IMANI" action="ASSIST"></play>
+      <play vh="H" time="04:59" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="MISS" type="3PTR"></play>
+      <play vh="H" time="04:59" uni="34" team="SHU" checkname="TARSI,ALISSA" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="04:47" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="FOUL"></play>
+      <play vh="H" time="04:47" uni="TM" team="SHU" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="H" time="04:47" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="GOOD" type="FT" vscore="8" hscore="12"></play>
+      <play vh="H" time="04:47" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="GOOD" type="FT" vscore="8" hscore="13"></play>
+      <play vh="V" time="04:29" uni="05" team="BING" checkname="JAMES,ALYSSA" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="04:29" uni="05" team="BING" checkname="JAMES,ALYSSA" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="04:05" uni="33" team="BING" checkname="CARMODY,REBECCA" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="04:05" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="03:56" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="03:56" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="03:43" uni="05" team="BING" checkname="JAMES,ALYSSA" action="GOOD" type="JUMPER" vscore="10" hscore="13"></play>
+      <play vh="V" time="03:43" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="ASSIST"></play>
+      <play vh="H" time="03:25" uni="34" team="SHU" checkname="TARSI,ALISSA" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="03:25" uni="05" team="BING" checkname="JAMES,ALYSSA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="03:10" uni="11" team="BING" checkname="WATKINS,IMANI" action="MISS" type="3PTR"></play>
+      <play vh="H" time="03:10" uni="34" team="SHU" checkname="TARSI,ALISSA" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="03:02" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="TURNOVER"></play>
+      <play vh="H" time="03:02" uni="02" team="SHU" checkname="CARTER,TYKERA" action="SUB" type="IN"></play>
+      <play vh="H" time="03:02" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="SUB" type="OUT"></play>
+      <play vh="V" time="02:46" uni="05" team="BING" checkname="JAMES,ALYSSA" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="02:46" uni="05" team="BING" checkname="JAMES,ALYSSA" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="02:45" uni="05" team="BING" checkname="JAMES,ALYSSA" action="GOOD" type="LAYUP" paint="Y" vscore="12" hscore="13"></play>
+      <play vh="H" time="02:45" uni="34" team="SHU" checkname="TARSI,ALISSA" action="FOUL"></play>
+      <play vh="V" time="02:45" uni="05" team="BING" checkname="JAMES,ALYSSA" action="GOOD" type="FT" vscore="13" hscore="13"></play>
+      <play vh="H" time="02:45" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="SUB" type="IN"></play>
+      <play vh="H" time="02:45" uni="34" team="SHU" checkname="TARSI,ALISSA" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:37" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="GOOD" type="LAYUP" paint="Y" vscore="13" hscore="15"></play>
+      <play vh="H" time="02:37" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="ASSIST"></play>
+      <play vh="H" time="02:18" uni="02" team="SHU" checkname="CARTER,TYKERA" action="FOUL"></play>
+      <play vh="V" time="02:18" uni="05" team="BING" checkname="JAMES,ALYSSA" action="GOOD" type="FT" vscore="14" hscore="15"></play>
+      <play vh="V" time="02:18" uni="05" team="BING" checkname="JAMES,ALYSSA" action="GOOD" type="FT" vscore="15" hscore="15"></play>
+      <play vh="V" time="02:18" uni="24" team="BING" checkname="ROSS,KRISTIN" action="SUB" type="IN"></play>
+      <play vh="V" time="02:18" uni="33" team="BING" checkname="CARMODY,REBECCA" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:09" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="MISS" type="3PTR"></play>
+      <play vh="V" time="02:09" uni="11" team="BING" checkname="WATKINS,IMANI" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="01:41" uni="11" team="BING" checkname="WATKINS,IMANI" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="01:41" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="01:38" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="LAYUP" paint="Y" vscore="17" hscore="15"></play>
+      <play vh="V" time="01:38" uni="23" team="BING" checkname="ALBRECHT,KIM" action="ASSIST"></play>
+      <play vh="V" time="01:25" uni="05" team="BING" checkname="JAMES,ALYSSA" action="FOUL"></play>
+      <play vh="H" time="01:25" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="GOOD" type="FT" vscore="17" hscore="16"></play>
+      <play vh="H" time="01:25" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="GOOD" type="FT" vscore="17" hscore="17"></play>
+      <play vh="V" time="01:01" uni="11" team="BING" checkname="WATKINS,IMANI" action="TURNOVER"></play>
+      <play vh="H" time="01:00" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="STEAL"></play>
+      <play vh="H" time="00:45" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:45" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="00:43" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="00:43" uni="05" team="BING" checkname="JAMES,ALYSSA" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:31" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="FOUL"></play>
+      <play vh="V" time="00:31" uni="23" team="BING" checkname="ALBRECHT,KIM" action="GOOD" type="FT" vscore="18" hscore="17"></play>
+      <play vh="V" time="00:31" uni="23" team="BING" checkname="ALBRECHT,KIM" action="GOOD" type="FT" vscore="19" hscore="17"></play>
+      <play vh="V" time="00:31" uni="34" team="BING" checkname="LIBBY,KYLIE" action="SUB" type="IN"></play>
+      <play vh="V" time="00:31" uni="33" team="BING" checkname="CARMODY,REBECCA" action="SUB" type="IN"></play>
+      <play vh="V" time="00:31" uni="05" team="BING" checkname="JAMES,ALYSSA" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:31" uni="11" team="BING" checkname="WATKINS,IMANI" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:26" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="TURNOVER"></play>
+      <play vh="V" time="00:24" uni="34" team="BING" checkname="LIBBY,KYLIE" action="STEAL"></play>
+      <play vh="V" time="00:24" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="V" time="00:24" uni="05" team="BING" checkname="JAMES,ALYSSA" action="SUB" type="IN"></play>
+      <play vh="V" time="00:24" uni="11" team="BING" checkname="WATKINS,IMANI" action="SUB" type="IN"></play>
+      <play vh="V" time="00:24" uni="34" team="BING" checkname="LIBBY,KYLIE" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:24" uni="24" team="BING" checkname="ROSS,KRISTIN" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:04" uni="11" team="BING" checkname="WATKINS,IMANI" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="00:04" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="REBOUND" type="DEF"></play>
+      <clock time="00:00"></clock>
+    </period>
+    <period number="2" time="10:00">
+      <special vh="V" pts_to="2" pts_ch2="0" pts_bench="0" ties="0" leads="0"
+               poss_count="17" poss_time="282" score_count="5" score_time="88" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="6" pts_ch2="2" pts_bench="8" ties="2" leads="0"
+               poss_count="16" poss_time="286" score_count="6" score_time="115" large_lead="-" large_lead_t="-"></special>
+      <play vh="V" time="10:00" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="SUB" type="IN"></play>
+      <play vh="V" time="10:00" uni="24" team="BING" checkname="ROSS,KRISTIN" action="SUB" type="OUT"></play>
+      <play vh="H" time="10:00" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="SUB" type="IN"></play>
+      <play vh="H" time="10:00" uni="02" team="SHU" checkname="CARTER,TYKERA" action="SUB" type="IN"></play>
+      <play vh="H" time="10:00" uni="34" team="SHU" checkname="TARSI,ALISSA" action="SUB" type="OUT"></play>
+      <play vh="H" time="10:00" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="SUB" type="OUT"></play>
+      <play vh="V" time="09:46" uni="05" team="BING" checkname="JAMES,ALYSSA" action="GOOD" type="LAYUP" paint="Y" vscore="21" hscore="17"></play>
+      <play vh="H" time="09:34" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="09:34" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="09:13" uni="02" team="SHU" checkname="CARTER,TYKERA" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="09:13" uni="05" team="BING" checkname="JAMES,ALYSSA" action="BLOCK"></play>
+      <play vh="H" time="09:13" uni="02" team="SHU" checkname="CARTER,TYKERA" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="09:12" uni="TM" team="SHU" checkname="TEAM" action="TURNOVER"></play>
+      <play vh="V" time="08:45" uni="33" team="BING" checkname="CARMODY,REBECCA" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="08:45" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="08:28" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="MISS" type="3PTR"></play>
+      <play vh="H" time="08:28" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="08:24" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="GOOD" type="LAYUP" paint="Y" vscore="21" hscore="19"></play>
+      <play vh="V" time="08:03" uni="33" team="BING" checkname="CARMODY,REBECCA" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="08:03" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:45" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="07:45" uni="05" team="BING" checkname="JAMES,ALYSSA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:14" uni="23" team="BING" checkname="ALBRECHT,KIM" action="TURNOVER"></play>
+      <play vh="V" time="07:14" uni="23" team="BING" checkname="ALBRECHT,KIM" action="FOUL"></play>
+      <play vh="V" time="07:14" uni="24" team="BING" checkname="ROSS,KRISTIN" action="SUB" type="IN"></play>
+      <play vh="V" time="07:14" uni="23" team="BING" checkname="ALBRECHT,KIM" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:14" uni="34" team="SHU" checkname="TARSI,ALISSA" action="SUB" type="IN"></play>
+      <play vh="H" time="07:14" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="SUB" type="OUT"></play>
+      <play vh="H" time="06:51" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="TURNOVER"></play>
+      <play vh="V" time="06:50" uni="11" team="BING" checkname="WATKINS,IMANI" action="STEAL"></play>
+      <play vh="V" time="06:46" uni="24" team="BING" checkname="ROSS,KRISTIN" action="TURNOVER"></play>
+      <play vh="V" time="06:46" uni="34" team="BING" checkname="LIBBY,KYLIE" action="SUB" type="IN"></play>
+      <play vh="V" time="06:46" uni="33" team="BING" checkname="CARMODY,REBECCA" action="SUB" type="OUT"></play>
+      <play vh="H" time="06:34" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="06:34" uni="24" team="BING" checkname="ROSS,KRISTIN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="06:20" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="3PTR" vscore="24" hscore="19"></play>
+      <play vh="H" time="06:05" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="TURNOVER"></play>
+      <play vh="V" time="06:05" uni="33" team="BING" checkname="CARMODY,REBECCA" action="SUB" type="IN"></play>
+      <play vh="V" time="06:05" uni="34" team="BING" checkname="LIBBY,KYLIE" action="SUB" type="OUT"></play>
+      <play vh="H" time="06:05" uni="05" team="SHU" checkname="STORCK,ERIN" action="SUB" type="IN"></play>
+      <play vh="H" time="06:05" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="SUB" type="IN"></play>
+      <play vh="H" time="06:05" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="SUB" type="OUT"></play>
+      <play vh="H" time="06:05" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="SUB" type="OUT"></play>
+      <play vh="V" time="05:49" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="JUMPER" vscore="26" hscore="19"></play>
+      <play vh="H" time="05:31" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="05:31" uni="05" team="BING" checkname="JAMES,ALYSSA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="05:19" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="TURNOVER"></play>
+      <play vh="H" time="05:00" uni="02" team="SHU" checkname="CARTER,TYKERA" action="GOOD" type="3PTR" vscore="26" hscore="22"></play>
+      <play vh="H" time="05:00" uni="34" team="SHU" checkname="TARSI,ALISSA" action="ASSIST"></play>
+      <play vh="V" time="04:40" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="JUMPER" vscore="28" hscore="22"></play>
+      <play vh="H" time="04:23" uni="34" team="SHU" checkname="TARSI,ALISSA" action="GOOD" type="JUMPER" vscore="28" hscore="24"></play>
+      <play vh="H" time="04:07" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="FOUL"></play>
+      <play vh="V" time="04:07" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="V" time="04:07" uni="24" team="BING" checkname="ROSS,KRISTIN" action="MISS" type="FT"></play>
+      <play vh="V" time="04:07" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="V" time="04:07" uni="24" team="BING" checkname="ROSS,KRISTIN" action="GOOD" type="FT" vscore="29" hscore="24"></play>
+      <play vh="V" time="04:07" uni="34" team="BING" checkname="LIBBY,KYLIE" action="SUB" type="IN"></play>
+      <play vh="V" time="04:07" uni="33" team="BING" checkname="CARMODY,REBECCA" action="SUB" type="OUT"></play>
+      <play vh="H" time="03:49" uni="02" team="SHU" checkname="CARTER,TYKERA" action="MISS" type="3PTR"></play>
+      <play vh="V" time="03:49" uni="34" team="BING" checkname="LIBBY,KYLIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="03:34" uni="05" team="BING" checkname="JAMES,ALYSSA" action="TURNOVER"></play>
+      <play vh="H" time="03:34" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="SUB" type="IN"></play>
+      <play vh="H" time="03:34" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="SUB" type="OUT"></play>
+      <play vh="H" time="03:17" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="03:17" uni="34" team="SHU" checkname="TARSI,ALISSA" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="03:14" uni="02" team="SHU" checkname="CARTER,TYKERA" action="TURNOVER"></play>
+      <play vh="V" time="02:59" uni="05" team="BING" checkname="JAMES,ALYSSA" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="02:59" uni="34" team="SHU" checkname="TARSI,ALISSA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="02:53" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="FOUL"></play>
+      <play vh="H" time="02:53" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="GOOD" type="FT" vscore="29" hscore="25"></play>
+      <play vh="H" time="02:53" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="GOOD" type="FT" vscore="29" hscore="26"></play>
+      <play vh="V" time="02:53" uni="33" team="BING" checkname="CARMODY,REBECCA" action="SUB" type="IN"></play>
+      <play vh="V" time="02:53" uni="34" team="BING" checkname="LIBBY,KYLIE" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:53" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="SUB" type="IN"></play>
+      <play vh="H" time="02:53" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="SUB" type="OUT"></play>
+      <play vh="V" time="02:37" uni="24" team="BING" checkname="ROSS,KRISTIN" action="TURNOVER"></play>
+      <play vh="H" time="02:37" uni="24" team="SHU" checkname="YE,KIANA" action="SUB" type="IN"></play>
+      <play vh="H" time="02:37" uni="02" team="SHU" checkname="CARTER,TYKERA" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:11" uni="05" team="SHU" checkname="STORCK,ERIN" action="GOOD" type="3PTR" vscore="29" hscore="29"></play>
+      <play vh="H" time="02:11" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="ASSIST"></play>
+      <play vh="V" time="01:47" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="JUMPER" vscore="31" hscore="29"></play>
+      <play vh="V" time="01:32" uni="34" team="BING" checkname="LIBBY,KYLIE" action="SUB" type="IN"></play>
+      <play vh="V" time="01:32" uni="03" team="BING" checkname="WICKS,TESS" action="SUB" type="IN"></play>
+      <play vh="V" time="01:32" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="SUB" type="OUT"></play>
+      <play vh="V" time="01:32" uni="24" team="BING" checkname="ROSS,KRISTIN" action="SUB" type="OUT"></play>
+      <play vh="V" time="01:29" uni="05" team="BING" checkname="JAMES,ALYSSA" action="FOUL"></play>
+      <play vh="V" time="01:29" uni="23" team="BING" checkname="ALBRECHT,KIM" action="SUB" type="IN"></play>
+      <play vh="V" time="01:29" uni="13" team="BING" checkname="THOMPSON,KENNEDI" action="SUB" type="IN"></play>
+      <play vh="V" time="01:29" uni="05" team="BING" checkname="JAMES,ALYSSA" action="SUB" type="OUT"></play>
+      <play vh="V" time="01:29" uni="03" team="BING" checkname="WICKS,TESS" action="SUB" type="OUT"></play>
+      <play vh="H" time="01:21" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="GOOD" type="JUMPER" paint="Y" vscore="31" hscore="31"></play>
+      <play vh="V" time="00:52" uni="23" team="BING" checkname="ALBRECHT,KIM" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="00:52" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:41" uni="24" team="SHU" checkname="YE,KIANA" action="MISS" type="3PTR"></play>
+      <play vh="V" time="00:41" uni="11" team="BING" checkname="WATKINS,IMANI" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="00:34" uni="11" team="BING" checkname="WATKINS,IMANI" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="00:34" uni="05" team="SHU" checkname="STORCK,ERIN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:18" uni="TM" team="SHU" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="H" time="00:02" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:02" uni="05" team="SHU" checkname="STORCK,ERIN" action="REBOUND" type="OFF"></play>
+      <clock time="00:00"></clock>
+    </period>
+    <period number="3" time="10:00">
+      <special vh="V" pts_to="5" pts_ch2="0" pts_bench="3" ties="3" leads="1"
+               poss_count="17" poss_time="274" score_count="7" score_time="102" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="3" pts_ch2="5" pts_bench="3" ties="0" leads="2"
+               poss_count="17" poss_time="326" score_count="9" score_time="175" large_lead="-" large_lead_t="-"></special>
+      <summary vh="V" fgm="7" fga="19" fgm3="4" fga3="9" ftm="11" fta="16" blk="0" stl="2" ast="6"
+               oreb="4" dreb="9" treb="13" pf="6" tf="0" to="6"></summary>
+      <summary vh="H" fgm="15" fga="26" fgm3="4" fga3="6" ftm="4" fta="7" blk="1" stl="2" ast="5"
+               oreb="4" dreb="12" treb="16" pf="12" tf="0" to="5"></summary>
+      <play vh="H" time="09:43" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="GOOD" type="3PTR" vscore="31" hscore="34"></play>
+      <play vh="H" time="09:43" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="ASSIST"></play>
+      <play vh="H" time="09:37" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="FOUL"></play>
+      <play vh="V" time="09:07" uni="11" team="BING" checkname="WATKINS,IMANI" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="09:07" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="09:05" uni="TM" team="BING" checkname="TEAM" action="TURNOVER"></play>
+      <play vh="H" time="08:57" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="08:57" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="08:50" uni="34" team="SHU" checkname="TARSI,ALISSA" action="GOOD" type="LAYUP" paint="Y" vscore="31" hscore="36"></play>
+      <play vh="V" time="08:38" uni="33" team="BING" checkname="CARMODY,REBECCA" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="08:38" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="08:25" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="GOOD" type="3PTR" vscore="31" hscore="39"></play>
+      <play vh="H" time="08:25" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="ASSIST"></play>
+      <play vh="V" time="08:23" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="V" time="08:23" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="SUB" type="IN"></play>
+      <play vh="V" time="08:23" uni="24" team="BING" checkname="ROSS,KRISTIN" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:58" uni="23" team="BING" checkname="ALBRECHT,KIM" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="07:58" uni="TM" team="SHU" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:39" uni="34" team="SHU" checkname="TARSI,ALISSA" action="GOOD" type="LAYUP" paint="Y" vscore="31" hscore="41"></play>
+      <play vh="V" time="07:26" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="MISS" type="3PTR"></play>
+      <play vh="H" time="07:26" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:18" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="07:18" uni="33" team="BING" checkname="CARMODY,REBECCA" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:15" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="FOUL"></play>
+      <play vh="V" time="07:15" uni="34" team="BING" checkname="LIBBY,KYLIE" action="SUB" type="IN"></play>
+      <play vh="V" time="07:15" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="SUB" type="OUT"></play>
+      <play vh="V" time="06:58" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="3PTR" vscore="34" hscore="41"></play>
+      <play vh="V" time="06:58" uni="33" team="BING" checkname="CARMODY,REBECCA" action="ASSIST"></play>
+      <play vh="H" time="06:41" uni="34" team="SHU" checkname="TARSI,ALISSA" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="06:41" uni="33" team="BING" checkname="CARMODY,REBECCA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="06:32" uni="23" team="BING" checkname="ALBRECHT,KIM" action="MISS" type="3PTR"></play>
+      <play vh="H" time="06:32" uni="TM" team="SHU" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="06:31" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="SUB" type="IN"></play>
+      <play vh="V" time="06:31" uni="33" team="BING" checkname="CARMODY,REBECCA" action="SUB" type="OUT"></play>
+      <play vh="H" time="06:31" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="SUB" type="IN"></play>
+      <play vh="H" time="06:31" uni="34" team="SHU" checkname="TARSI,ALISSA" action="SUB" type="OUT"></play>
+      <play vh="H" time="06:13" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="06:13" uni="34" team="BING" checkname="LIBBY,KYLIE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="05:57" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="FOUL"></play>
+      <play vh="V" time="05:56" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="TURNOVER"></play>
+      <play vh="V" time="05:44" uni="05" team="BING" checkname="JAMES,ALYSSA" action="FOUL"></play>
+      <play vh="H" time="05:44" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="GOOD" type="FT" vscore="34" hscore="42"></play>
+      <play vh="H" time="05:44" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="MISS" type="FT"></play>
+      <play vh="V" time="05:44" uni="05" team="BING" checkname="JAMES,ALYSSA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="05:26" uni="11" team="BING" checkname="WATKINS,IMANI" action="TURNOVER"></play>
+      <play vh="H" time="04:59" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="MISS" type="3PTR"></play>
+      <play vh="V" time="04:59" uni="11" team="BING" checkname="WATKINS,IMANI" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="04:54" uni="23" team="BING" checkname="ALBRECHT,KIM" action="GOOD" type="3PTR" fastb="Y" vscore="37" hscore="42"></play>
+      <play vh="V" time="04:54" uni="11" team="BING" checkname="WATKINS,IMANI" action="ASSIST"></play>
+      <play vh="H" time="04:30" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="04:30" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="04:11" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="FOUL"></play>
+      <play vh="V" time="04:11" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="V" time="04:11" uni="05" team="BING" checkname="JAMES,ALYSSA" action="GOOD" type="FT" vscore="38" hscore="42"></play>
+      <play vh="V" time="04:11" uni="05" team="BING" checkname="JAMES,ALYSSA" action="GOOD" type="FT" vscore="39" hscore="42"></play>
+      <play vh="H" time="04:11" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="TURNOVER"></play>
+      <play vh="H" time="04:11" uni="34" team="SHU" checkname="TARSI,ALISSA" action="SUB" type="IN"></play>
+      <play vh="H" time="04:11" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="SUB" type="OUT"></play>
+      <play vh="V" time="04:03" uni="05" team="BING" checkname="JAMES,ALYSSA" action="GOOD" type="LAYUP" paint="Y" vscore="41" hscore="42"></play>
+      <play vh="V" time="04:03" uni="11" team="BING" checkname="WATKINS,IMANI" action="ASSIST"></play>
+      <play vh="H" time="03:35" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="GOOD" type="JUMPER" paint="Y" vscore="41" hscore="44"></play>
+      <play vh="V" time="03:00" uni="34" team="BING" checkname="LIBBY,KYLIE" action="TURNOVER"></play>
+      <play vh="H" time="02:52" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="TURNOVER"></play>
+      <play vh="V" time="02:52" uni="33" team="BING" checkname="CARMODY,REBECCA" action="SUB" type="IN"></play>
+      <play vh="V" time="02:52" uni="23" team="BING" checkname="ALBRECHT,KIM" action="SUB" type="OUT"></play>
+      <play vh="V" time="02:23" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="GOOD" type="3PTR" vscore="44" hscore="44"></play>
+      <play vh="V" time="02:23" uni="33" team="BING" checkname="CARMODY,REBECCA" action="ASSIST"></play>
+      <play vh="H" time="02:00" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="02:00" uni="34" team="BING" checkname="LIBBY,KYLIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="01:37" uni="05" team="BING" checkname="JAMES,ALYSSA" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="01:37" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="01:27" uni="34" team="BING" checkname="LIBBY,KYLIE" action="FOUL"></play>
+      <play vh="H" time="01:27" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="MISS" type="FT"></play>
+      <play vh="H" time="01:27" uni="TM" team="SHU" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="01:27" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="GOOD" type="FT" vscore="44" hscore="45"></play>
+      <play vh="H" time="01:27" uni="05" team="SHU" checkname="STORCK,ERIN" action="SUB" type="IN"></play>
+      <play vh="H" time="01:27" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="SUB" type="OUT"></play>
+      <play vh="H" time="01:21" uni="34" team="SHU" checkname="TARSI,ALISSA" action="FOUL"></play>
+      <play vh="V" time="01:21" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="FT" vscore="45" hscore="45"></play>
+      <play vh="V" time="01:21" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="FT" vscore="46" hscore="45"></play>
+      <play vh="H" time="01:21" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="SUB" type="IN"></play>
+      <play vh="H" time="01:21" uni="34" team="SHU" checkname="TARSI,ALISSA" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:58" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:58" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="00:50" uni="05" team="SHU" checkname="STORCK,ERIN" action="GOOD" type="3PTR" vscore="46" hscore="48"></play>
+      <play vh="H" time="00:50" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="ASSIST"></play>
+      <play vh="V" time="00:38" uni="23" team="BING" checkname="ALBRECHT,KIM" action="SUB" type="IN"></play>
+      <play vh="V" time="00:38" uni="34" team="BING" checkname="LIBBY,KYLIE" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:35" uni="33" team="BING" checkname="CARMODY,REBECCA" action="GOOD" type="LAYUP" paint="Y" vscore="48" hscore="48"></play>
+      <play vh="V" time="00:35" uni="05" team="BING" checkname="JAMES,ALYSSA" action="ASSIST"></play>
+      <play vh="H" time="00:05" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="GOOD" type="JUMPER" paint="Y" vscore="48" hscore="50"></play>
+      <clock time="00:00"></clock>
+    </period>
+    <period number="4" time="10:00">
+      <special vh="V" pts_to="1" pts_ch2="0" pts_bench="0" ties="2" leads="1"
+               poss_count="14" poss_time="285" score_count="6" score_time="105" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="2" pts_ch2="4" pts_bench="0" ties="0" leads="1"
+               poss_count="14" poss_time="266" score_count="9" score_time="167" large_lead="-" large_lead_t="-"></special>
+      <play vh="V" time="10:00" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="SUB" type="IN"></play>
+      <play vh="V" time="10:00" uni="24" team="BING" checkname="ROSS,KRISTIN" action="SUB" type="OUT"></play>
+      <play vh="H" time="10:00" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="SUB" type="IN"></play>
+      <play vh="H" time="10:00" uni="05" team="SHU" checkname="STORCK,ERIN" action="SUB" type="IN"></play>
+      <play vh="H" time="10:00" uni="34" team="SHU" checkname="TARSI,ALISSA" action="SUB" type="OUT"></play>
+      <play vh="H" time="10:00" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="SUB" type="OUT"></play>
+      <play vh="V" time="09:50" uni="05" team="BING" checkname="JAMES,ALYSSA" action="GOOD" type="LAYUP" paint="Y" vscore="50" hscore="50"></play>
+      <play vh="H" time="09:19" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="TURNOVER"></play>
+      <play vh="V" time="09:16" uni="11" team="BING" checkname="WATKINS,IMANI" action="STEAL"></play>
+      <play vh="V" time="09:07" uni="11" team="BING" checkname="WATKINS,IMANI" action="MISS" type="3PTR"></play>
+      <play vh="H" time="09:07" uni="TM" team="SHU" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="08:54" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="GOOD" type="JUMPER" vscore="50" hscore="52"></play>
+      <play vh="V" time="08:35" uni="23" team="BING" checkname="ALBRECHT,KIM" action="GOOD" type="3PTR" vscore="53" hscore="52"></play>
+      <play vh="V" time="08:35" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="ASSIST"></play>
+      <play vh="H" time="08:16" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="08:16" uni="05" team="BING" checkname="JAMES,ALYSSA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:48" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="07:48" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:44" uni="02" team="SHU" checkname="CARTER,TYKERA" action="SUB" type="IN"></play>
+      <play vh="H" time="07:44" uni="05" team="SHU" checkname="STORCK,ERIN" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:34" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="GOOD" type="3PTR" vscore="53" hscore="55"></play>
+      <play vh="H" time="07:34" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="ASSIST"></play>
+      <play vh="H" time="07:12" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="FOUL"></play>
+      <play vh="V" time="07:12" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="FT" vscore="54" hscore="55"></play>
+      <play vh="V" time="07:12" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="FT" vscore="55" hscore="55"></play>
+      <play vh="V" time="07:12" uni="34" team="BING" checkname="LIBBY,KYLIE" action="SUB" type="IN"></play>
+      <play vh="V" time="07:12" uni="33" team="BING" checkname="CARMODY,REBECCA" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:12" uni="34" team="SHU" checkname="TARSI,ALISSA" action="SUB" type="IN"></play>
+      <play vh="H" time="07:12" uni="21" team="SHU" checkname="ETTIENNE,LERAE" action="SUB" type="OUT"></play>
+      <play vh="H" time="06:59" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="GOOD" type="LAYUP" paint="Y" vscore="55" hscore="57"></play>
+      <play vh="V" time="06:59" uni="34" team="BING" checkname="LIBBY,KYLIE" action="FOUL"></play>
+      <play vh="H" time="06:59" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="MISS" type="FT"></play>
+      <play vh="H" time="06:59" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="06:43" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="GOOD" type="JUMPER" paint="Y" vscore="55" hscore="59"></play>
+      <play vh="V" time="06:10" uni="11" team="BING" checkname="WATKINS,IMANI" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="06:10" uni="02" team="SHU" checkname="CARTER,TYKERA" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="05:51" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="05:51" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="05:42" uni="34" team="SHU" checkname="TARSI,ALISSA" action="GOOD" type="LAYUP" paint="Y" vscore="55" hscore="61"></play>
+      <play vh="H" time="05:42" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="ASSIST"></play>
+      <play vh="V" time="05:20" uni="34" team="BING" checkname="LIBBY,KYLIE" action="TURNOVER"></play>
+      <play vh="H" time="05:19" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="STEAL"></play>
+      <play vh="V" time="05:14" uni="23" team="BING" checkname="ALBRECHT,KIM" action="FOUL"></play>
+      <play vh="V" time="05:14" uni="33" team="BING" checkname="CARMODY,REBECCA" action="SUB" type="IN"></play>
+      <play vh="V" time="05:14" uni="34" team="BING" checkname="LIBBY,KYLIE" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:14" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="SUB" type="IN"></play>
+      <play vh="H" time="05:14" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:04" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="TURNOVER"></play>
+      <play vh="V" time="05:04" uni="05" team="BING" checkname="JAMES,ALYSSA" action="STEAL"></play>
+      <play vh="H" time="04:40" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="FOUL"></play>
+      <play vh="V" time="04:40" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="V" time="04:40" uni="33" team="BING" checkname="CARMODY,REBECCA" action="GOOD" type="FT" vscore="56" hscore="61"></play>
+      <play vh="V" time="04:40" uni="33" team="BING" checkname="CARMODY,REBECCA" action="MISS" type="FT"></play>
+      <play vh="H" time="04:40" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="04:40" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="SUB" type="IN"></play>
+      <play vh="H" time="04:40" uni="02" team="SHU" checkname="CARTER,TYKERA" action="SUB" type="OUT"></play>
+      <play vh="H" time="04:19" uni="34" team="SHU" checkname="TARSI,ALISSA" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="04:19" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="04:00" uni="12" team="BING" checkname="HERNANDEZ,MCKAYLA" action="MISS" type="3PTR"></play>
+      <play vh="V" time="04:00" uni="33" team="BING" checkname="CARMODY,REBECCA" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="03:58" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="FOUL"></play>
+      <play vh="V" time="03:31" uni="11" team="BING" checkname="WATKINS,IMANI" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="03:31" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="BLOCK"></play>
+      <play vh="V" time="03:31" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="03:29" uni="11" team="BING" checkname="WATKINS,IMANI" action="MISS" type="3PTR"></play>
+      <play vh="H" time="03:29" uni="TM" team="SHU" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="03:02" uni="23" team="BING" checkname="ALBRECHT,KIM" action="FOUL"></play>
+      <play vh="H" time="03:02" uni="34" team="SHU" checkname="TARSI,ALISSA" action="GOOD" type="FT" vscore="56" hscore="62"></play>
+      <play vh="H" time="03:02" uni="34" team="SHU" checkname="TARSI,ALISSA" action="GOOD" type="FT" vscore="56" hscore="63"></play>
+      <play vh="V" time="03:02" uni="34" team="BING" checkname="LIBBY,KYLIE" action="SUB" type="IN"></play>
+      <play vh="V" time="03:02" uni="23" team="BING" checkname="ALBRECHT,KIM" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:38" uni="34" team="SHU" checkname="TARSI,ALISSA" action="FOUL"></play>
+      <play vh="V" time="02:38" uni="05" team="BING" checkname="JAMES,ALYSSA" action="MISS" type="FT"></play>
+      <play vh="V" time="02:38" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="V" time="02:38" uni="05" team="BING" checkname="JAMES,ALYSSA" action="MISS" type="FT"></play>
+      <play vh="V" time="02:38" uni="34" team="BING" checkname="LIBBY,KYLIE" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="02:34" uni="11" team="BING" checkname="WATKINS,IMANI" action="TURNOVER"></play>
+      <play vh="H" time="02:33" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="STEAL"></play>
+      <play vh="H" time="02:29" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="56" hscore="65"></play>
+      <play vh="H" time="02:13" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="FOUL"></play>
+      <play vh="V" time="02:13" uni="05" team="BING" checkname="JAMES,ALYSSA" action="GOOD" type="FT" vscore="57" hscore="65"></play>
+      <play vh="V" time="02:13" uni="05" team="BING" checkname="JAMES,ALYSSA" action="MISS" type="FT"></play>
+      <play vh="H" time="02:13" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="01:51" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="GOOD" type="LAYUP" paint="Y" vscore="57" hscore="67"></play>
+      <play vh="V" time="01:44" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="H" time="01:32" uni="22" team="SHU" checkname="KIMMEL,HANNAH" action="FOUL"></play>
+      <play vh="V" time="01:32" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="FT" vscore="58" hscore="67"></play>
+      <play vh="V" time="01:32" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="FT" vscore="59" hscore="67"></play>
+      <play vh="H" time="01:03" uni="03" team="SHU" checkname="WILLIAMS,ADAYSHA" action="GOOD" type="LAYUP" paint="Y" vscore="59" hscore="69"></play>
+      <play vh="H" time="00:49" uni="45" team="SHU" checkname="CASTRO,KELCEY" action="FOUL"></play>
+      <play vh="V" time="00:49" uni="11" team="BING" checkname="WATKINS,IMANI" action="GOOD" type="FT" vscore="60" hscore="69"></play>
+      <play vh="V" time="00:49" uni="11" team="BING" checkname="WATKINS,IMANI" action="MISS" type="FT"></play>
+      <play vh="H" time="00:49" uni="20" team="SHU" checkname="HICKEY,SHELBY" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="00:31" uni="11" team="BING" checkname="WATKINS,IMANI" action="FOUL"></play>
+      <play vh="H" time="00:00" uni="TM" team="SHU" checkname="TEAM" action="TURNOVER"></play>
+      <clock time="00:00"></clock>
+    </period>
+  </plays>
+</bbgame>

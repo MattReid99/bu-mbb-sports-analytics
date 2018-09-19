@@ -1,0 +1,668 @@
+<bbgame source="STAT CREW Basketball" version="4.14.06" generated="3/9/2016">
+  <venue gameid="15-8"
+           visid="BING" visname="Binghamton Univ."
+           homeid="OAKLAND" homename="Oakland"
+           date="12/7/2015" location="Rochester, Mich.(Blacktop at the O'rena)"
+           time="7:00 p.m." attend="2006" schednote=""
+           leaguegame="N" neutralgame="N" postseason="N">
+    <officials text="Joseph DeRosa, Kipp Kissinger, J.B. DeRosa"></officials>
+    <notes>
+      <note text="TECHNICAL FOULS: BINGHAMTON BENCH  (COACH) 12:54 1st HALF"></note>
+    </notes>
+    <rules prds="2" minutes="20" minutesot="5" fouls="5" qh="H"></rules>
+  </venue>
+  <status complete="Y" period="2" clock="00:00" running="F"></status>
+  <team vh="V" id="BING" name="Binghamton Univ." code="62" record="2-6">
+    <linescore line="45,27" score="72">
+      <lineprd prd="1" score="45"></lineprd>
+      <lineprd prd="2" score="27"></lineprd>
+    </linescore>
+    <totals>
+      <stats fgm="25" fga="64" fgm3="14" fga3="35" ftm="8" fta="11" tp="72" blk="0" stl="4" ast="19" min="200" oreb="9" dreb="24" treb="33" pf="20" tf="1" to="14" deadball="1,2"
+             fgpct="39.1" fg3pct="40.0" ftpct="72.7"></stats>
+      <statsbyprd prd="1" fgm="15" fga="31" fgm3="10" fga3="20" ftm="5" fta="8" tp="45" blk="0" stl="2" ast="14" min="100" oreb="7" dreb="11" treb="18" pf="9" tf="1" to="6"></statsbyprd>
+      <statsbyprd prd="2" fgm="10" fga="33" fgm3="4" fga3="15" ftm="3" fta="3" tp="27" blk="0" stl="2" ast="5" min="100" oreb="2" dreb="13" treb="15" pf="11" tf="0" to="8"></statsbyprd>
+      <special vh="V" pts_to="19" pts_ch2="5" pts_paint="20" pts_fastb="18" pts_bench="20" ties="1" leads="6"
+               poss_count="77" poss_time="1246" score_count="29" score_time="516" large_lead="5" large_lead_t="1st-04:42"></special>
+    </totals>
+    <player uni="00" code="00" name="Karon Waller" checkname="WALLER,KARON" gp="0"></player>
+    <player uni="01" code="01" name="Marlon Beck II" checkname="II,MARLON BECK" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="5" fga="10" fgm3="5" fga3="10" ftm="0" fta="0" tp="15" blk="0" stl="1" ast="8" min="37" oreb="0" dreb="3" treb="3" pf="2" tf="0" to="3" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="4" fgm3="2" fga3="4" ftm="0" fta="0" tp="6" blk="0" stl="0" ast="8" min="17" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="2" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="3" fga="6" fgm3="3" fga3="6" ftm="0" fta="0" tp="9" blk="0" stl="1" ast="0" min="20" oreb="0" dreb="2" treb="2" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="04" code="04" name="Timmy Rose" checkname="ROSE,TIMMY" gp="1">
+      <stats fgm="1" fga="2" fgm3="1" fga3="2" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="2" min="8" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="2" min="7" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="10" code="10" name="Yosef Yacob" checkname="YACOB,YOSEF" gp="0"></player>
+    <player uni="11" code="11" name="Romello Walker" checkname="WALKER,ROMELLO" gp="0"></player>
+    <player uni="12" code="12" name="John Rinaldi" checkname="RINALDI,JOHN" gp="1">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="14" code="14" name="Jordan McRae" checkname="MCRAE,JORDAN" gp="0"></player>
+    <player uni="15" code="15" name="Bobby Ahearn" checkname="AHEARN,BOBBY" gp="1" gs="1" pos="f" oncourt="Y">
+      <stats fgm="2" fga="5" fgm3="0" fga3="0" ftm="0" fta="0" tp="4" blk="0" stl="0" ast="3" min="22" oreb="1" dreb="3" treb="4" pf="3" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="4" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="3" min="19" oreb="1" dreb="3" treb="4" pf="1" tf="0" to="2" dq="0"></statsbyprd>
+    </player>
+    <player uni="22" code="22" name="Everson Davis" checkname="DAVIS,EVERSON" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="5" fga="11" fgm3="1" fga3="2" ftm="7" fta="7" tp="18" blk="0" stl="1" ast="5" min="33" oreb="1" dreb="4" treb="5" pf="4" tf="0" to="8" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="5" fgm3="1" fga3="2" ftm="4" fta="4" tp="9" blk="0" stl="0" ast="3" min="14" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="3" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="3" fga="6" fgm3="0" fga3="0" ftm="3" fta="3" tp="9" blk="0" stl="1" ast="2" min="19" oreb="1" dreb="2" treb="3" pf="3" tf="0" to="5" dq="0"></statsbyprd>
+    </player>
+    <player uni="25" code="25" name="Justin McFadden" checkname="MCFADDEN,JUSTIN" gp="1" gs="1" pos="g">
+      <stats fgm="1" fga="5" fgm3="0" fga3="2" ftm="1" fta="2" tp="3" blk="0" stl="1" ast="1" min="15" oreb="3" dreb="1" treb="4" pf="1" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="5" fgm3="0" fga3="2" ftm="1" fta="2" tp="3" blk="0" stl="1" ast="1" min="15" oreb="3" dreb="1" treb="4" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="30" code="30" name="John Schurman" checkname="SCHURMAN,JOHN" gp="1" oncourt="Y">
+      <stats fgm="4" fga="7" fgm3="3" fga3="6" ftm="0" fta="0" tp="11" blk="0" stl="0" ast="0" min="25" oreb="1" dreb="3" treb="4" pf="4" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="3" fga="4" fgm3="2" fga3="3" ftm="0" fta="0" tp="8" blk="0" stl="0" ast="0" min="10" oreb="1" dreb="1" treb="2" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="3" fgm3="1" fga3="3" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="15" oreb="0" dreb="2" treb="2" pf="3" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="32" code="32" name="Thomas Bruce" checkname="BRUCE,THOMAS" gp="0"></player>
+    <player uni="41" code="41" name="Dusan Perovic" checkname="PEROVIC,DUSAN" gp="1">
+      <stats fgm="2" fga="12" fgm3="2" fga3="9" ftm="0" fta="2" tp="6" blk="0" stl="0" ast="0" min="28" oreb="0" dreb="5" treb="5" pf="2" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="7" fgm3="2" fga3="6" ftm="0" fta="2" tp="6" blk="0" stl="0" ast="0" min="17" oreb="0" dreb="4" treb="4" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="5" fgm3="0" fga3="3" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="11" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="42" code="42" name="Willie Rodriguez" checkname="RODRIGUEZ,WILLIE" gp="1" gs="1" pos="f" oncourt="Y">
+      <stats fgm="5" fga="12" fgm3="2" fga3="4" ftm="0" fta="0" tp="12" blk="0" stl="1" ast="0" min="31" oreb="2" dreb="3" treb="5" pf="4" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="3" fga="4" fgm3="2" fga3="2" ftm="0" fta="0" tp="8" blk="0" stl="1" ast="0" min="16" oreb="2" dreb="1" treb="3" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="8" fgm3="0" fga3="2" ftm="0" fta="0" tp="4" blk="0" stl="0" ast="0" min="15" oreb="0" dreb="2" treb="2" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" gp="1">
+      <stats oreb="1" dreb="2" treb="3" pf="0" tf="1" to="0" dq="0"></stats>
+      <statsbyprd prd="1" oreb="1" dreb="1" treb="2" pf="0" tf="1" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+  </team>
+  <team vh="H" id="OAKLAND" name="Oakland" code="514" record="5-3">
+    <linescore line="45,38" score="83">
+      <lineprd prd="1" score="45"></lineprd>
+      <lineprd prd="2" score="38"></lineprd>
+    </linescore>
+    <totals>
+      <stats fgm="29" fga="62" fgm3="7" fga3="16" ftm="18" fta="25" tp="83" blk="3" stl="10" ast="19" min="200" oreb="9" dreb="32" treb="41" pf="13" tf="0" to="12" deadball="5,0"
+             fgpct="46.8" fg3pct="43.8" ftpct="72.0"></stats>
+      <statsbyprd prd="1" fgm="16" fga="30" fgm3="6" fga3="10" ftm="7" fta="9" tp="45" blk="2" stl="3" ast="12" min="100" oreb="3" dreb="11" treb="14" pf="8" tf="0" to="6"></statsbyprd>
+      <statsbyprd prd="2" fgm="13" fga="32" fgm3="1" fga3="6" ftm="11" fta="16" tp="38" blk="1" stl="7" ast="7" min="100" oreb="6" dreb="21" treb="27" pf="5" tf="0" to="6"></statsbyprd>
+      <special vh="H" pts_to="18" pts_ch2="7" pts_paint="40" pts_fastb="18" pts_bench="17" ties="2" leads="6"
+               poss_count="77" poss_time="1145" score_count="38" score_time="499" large_lead="13" large_lead_t="2nd-00:44"></special>
+    </totals>
+    <player uni="02" code="02" name="DANIELS, Nick" checkname="DANIELS,NICK" gp="1" gs="1" pos="g">
+      <stats fgm="1" fga="7" fgm3="1" fga3="3" ftm="0" fta="0" tp="3" blk="0" stl="2" ast="0" min="19" oreb="0" dreb="1" treb="1" pf="2" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="3" fgm3="1" fga3="2" ftm="0" fta="0" tp="3" blk="0" stl="0" ast="0" min="10" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="4" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="2" ast="0" min="9" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="04" code="04" name="HAYES, Jalen" checkname="HAYES,JALEN" gp="1" gs="1" pos="f">
+      <stats fgm="5" fga="14" fgm3="0" fga3="2" ftm="2" fta="3" tp="12" blk="0" stl="1" ast="4" min="30" oreb="5" dreb="8" treb="13" pf="3" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="4" fga="7" fgm3="0" fga3="1" ftm="2" fta="3" tp="10" blk="0" stl="1" ast="4" min="16" oreb="1" dreb="4" treb="5" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="7" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="0" ast="0" min="14" oreb="4" dreb="4" treb="8" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="10" code="10" name="HOOPER, Max" checkname="HOOPER,MAX" gp="1" oncourt="Y">
+      <stats fgm="4" fga="7" fgm3="4" fga3="7" ftm="2" fta="2" tp="14" blk="0" stl="0" ast="2" min="26" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="4" fga="5" fgm3="4" fga3="5" ftm="0" fta="0" tp="12" blk="0" stl="0" ast="1" min="12" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="2" fgm3="0" fga3="2" ftm="2" fta="2" tp="2" blk="0" stl="0" ast="1" min="14" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="13" code="13" name="BRECHTING, Brad" checkname="BRECHTING,BRAD" gp="1" oncourt="Y">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="3" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="14" code="14" name="HILL-MAIS, Xavier" checkname="HILL-MAIS,XAVIER" gp="1" oncourt="Y">
+      <stats fgm="1" fga="1" fgm3="0" fga3="0" ftm="1" fta="2" tp="3" blk="2" stl="0" ast="1" min="10" oreb="1" dreb="1" treb="2" pf="1" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="2" blk="2" stl="0" ast="0" min="6" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="1" fta="2" tp="1" blk="0" stl="0" ast="1" min="4" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="20" code="20" name="FELDER, Kay" checkname="FELDER,KAY" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="9" fga="19" fgm3="0" fga3="2" ftm="7" fta="8" tp="25" blk="0" stl="4" ast="7" min="38" oreb="0" dreb="3" treb="3" pf="3" tf="0" to="6" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="6" fgm3="0" fga3="1" ftm="2" fta="2" tp="6" blk="0" stl="2" ast="4" min="19" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="3" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="7" fga="13" fgm3="0" fga3="1" ftm="5" fta="6" tp="19" blk="0" stl="2" ast="3" min="19" oreb="0" dreb="1" treb="1" pf="2" tf="0" to="3" dq="0"></statsbyprd>
+    </player>
+    <player uni="21" code="21" name="CUMBERLAND, Jaevin" checkname="CUMBERLAND,JAEVIN" gp="1">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="5" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="24" code="24" name="GIBSON, Percy" checkname="GIBSON,PERCY" gp="1" gs="1" pos="c">
+      <stats fgm="6" fga="10" fgm3="0" fga3="0" ftm="0" fta="0" tp="12" blk="1" stl="1" ast="0" min="29" oreb="2" dreb="7" treb="9" pf="2" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="3" fga="7" fgm3="0" fga3="0" ftm="0" fta="0" tp="6" blk="0" stl="0" ast="0" min="14" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="3" fga="3" fgm3="0" fga3="0" ftm="0" fta="0" tp="6" blk="1" stl="1" ast="0" min="15" oreb="1" dreb="7" treb="8" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="25" code="25" name="OLUJOBI, Femi" checkname="OLUJOBI,FEMI" gp="1">
+      <stats fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="3" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="30" code="30" name="DORSEY-WALKER, S." checkname="DORSEY-WALKER,S" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="3" fga="3" fgm3="2" fga3="2" ftm="6" fta="10" tp="14" blk="0" stl="2" ast="4" min="36" oreb="1" dreb="7" treb="8" pf="1" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="1" fga3="1" ftm="3" fta="4" tp="6" blk="0" stl="0" ast="3" min="18" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="2" fgm3="1" fga3="1" ftm="3" fta="6" tp="8" blk="0" stl="2" ast="1" min="18" oreb="1" dreb="5" treb="6" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="35" code="35" name="WALKER, Martez" checkname="WALKER,MARTEZ" gp="0"></player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" gp="1">
+      <stats oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+  </team>
+  <plays format="tokens">
+    <period number="1" time="20:00">
+      <special vh="V" pts_to="10" pts_ch2="3" pts_paint="8" pts_fastb="12" pts_bench="17" ties="0" leads="4"
+               poss_count="36" poss_time="653" score_count="18" score_time="340" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="9" pts_ch2="3" pts_paint="18" pts_fastb="10" pts_bench="14" ties="1" leads="3"
+               poss_count="36" poss_time="538" score_count="19" score_time="271" large_lead="-" large_lead_t="-"></special>
+      <summary vh="V" fgm="15" fga="31" fgm3="10" fga3="20" ftm="5" fta="8" blk="0" stl="2" ast="14"
+               oreb="7" dreb="11" treb="18" pf="9" tf="1" to="6"></summary>
+      <summary vh="H" fgm="16" fga="30" fgm3="6" fga3="10" ftm="7" fta="9" blk="2" stl="3" ast="12"
+               oreb="3" dreb="11" treb="14" pf="8" tf="0" to="6"></summary>
+      <play vh="H" time="19:43" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="19:43" uni="22" team="BING" checkname="DAVIS,EVERSON" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="19:22" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="19:22" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="19:13" uni="15" team="BING" checkname="AHEARN,BOBBY" action="FOUL"></play>
+      <play vh="H" time="19:13" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="GOOD" type="FT" vscore="0" hscore="1"></play>
+      <play vh="H" time="19:13" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="GOOD" type="FT" vscore="0" hscore="2"></play>
+      <play vh="V" time="19:04" uni="01" team="BING" checkname="II,MARLON BECK" action="TURNOVER"></play>
+      <play vh="H" time="19:02" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="STEAL"></play>
+      <play vh="H" time="19:00" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="0" hscore="4"></play>
+      <play vh="V" time="18:51" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="GOOD" type="LAYUP" paint="Y" vscore="2" hscore="4"></play>
+      <play vh="V" time="18:51" uni="01" team="BING" checkname="II,MARLON BECK" action="ASSIST"></play>
+      <play vh="H" time="18:29" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="18:29" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="18:25" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="FOUL"></play>
+      <play vh="H" time="18:25" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="TURNOVER"></play>
+      <play vh="V" time="17:57" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="17:57" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="17:51" uni="22" team="BING" checkname="DAVIS,EVERSON" action="FOUL"></play>
+      <play vh="V" time="17:51" uni="22" team="BING" checkname="DAVIS,EVERSON" action="TURNOVER"></play>
+      <play vh="H" time="17:36" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="GOOD" type="LAYUP" paint="Y" vscore="2" hscore="6"></play>
+      <play vh="H" time="17:36" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="ASSIST"></play>
+      <play vh="V" time="17:21" uni="15" team="BING" checkname="AHEARN,BOBBY" action="GOOD" type="JUMPER" fastb="Y" vscore="4" hscore="6"></play>
+      <play vh="V" time="17:21" uni="01" team="BING" checkname="II,MARLON BECK" action="ASSIST"></play>
+      <play vh="H" time="16:54" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="16:54" uni="TM" team="OAKLAND" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="V" time="16:52" uni="15" team="BING" checkname="AHEARN,BOBBY" action="FOUL"></play>
+      <play vh="V" time="16:52" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="IN"></play>
+      <play vh="V" time="16:52" uni="15" team="BING" checkname="AHEARN,BOBBY" action="SUB" type="OUT"></play>
+      <play vh="H" time="16:52" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="SUB" type="IN"></play>
+      <play vh="H" time="16:52" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="SUB" type="IN"></play>
+      <play vh="H" time="16:52" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="SUB" type="OUT"></play>
+      <play vh="H" time="16:52" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="OUT"></play>
+      <play vh="H" time="16:41" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="MISS" type="3PTR"></play>
+      <play vh="H" time="16:41" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="16:34" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="FOUL"></play>
+      <play vh="H" time="16:23" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="GOOD" type="LAYUP" paint="Y" vscore="4" hscore="8"></play>
+      <play vh="V" time="16:14" uni="22" team="BING" checkname="DAVIS,EVERSON" action="TURNOVER"></play>
+      <play vh="H" time="16:12" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="STEAL"></play>
+      <play vh="H" time="16:10" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="GOOD" type="3PTR" fastb="Y" vscore="4" hscore="11"></play>
+      <play vh="H" time="16:10" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="ASSIST"></play>
+      <play vh="V" time="15:59" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="6" hscore="11"></play>
+      <play vh="V" time="15:59" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="ASSIST"></play>
+      <play vh="H" time="15:50" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="15:50" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="15:26" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="FOUL"></play>
+      <play vh="V" time="15:26" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="V" time="15:26" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="FT"></play>
+      <play vh="V" time="15:26" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="V" time="15:26" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="FT"></play>
+      <play vh="H" time="15:26" uni="13" team="OAKLAND" checkname="BRECHTING,BRAD" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="15:26" uni="13" team="OAKLAND" checkname="BRECHTING,BRAD" action="SUB" type="IN"></play>
+      <play vh="H" time="15:26" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="IN"></play>
+      <play vh="H" time="15:26" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="SUB" type="IN"></play>
+      <play vh="H" time="15:26" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="SUB" type="OUT"></play>
+      <play vh="H" time="15:26" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="SUB" type="OUT"></play>
+      <play vh="H" time="15:26" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="SUB" type="OUT"></play>
+      <play vh="H" time="15:11" uni="13" team="OAKLAND" checkname="BRECHTING,BRAD" action="TURNOVER"></play>
+      <play vh="V" time="15:10" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="STEAL"></play>
+      <play vh="V" time="14:42" uni="01" team="BING" checkname="II,MARLON BECK" action="GOOD" type="3PTR" vscore="9" hscore="11"></play>
+      <play vh="V" time="14:42" uni="22" team="BING" checkname="DAVIS,EVERSON" action="ASSIST"></play>
+      <play vh="H" time="14:26" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="14:26" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="14:22" uni="22" team="BING" checkname="DAVIS,EVERSON" action="TURNOVER"></play>
+      <play vh="H" time="14:20" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="STEAL"></play>
+      <play vh="H" time="14:18" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="9" hscore="13"></play>
+      <play vh="V" time="14:02" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="3PTR"></play>
+      <play vh="H" time="14:02" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="13:54" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="TURNOVER"></play>
+      <play vh="V" time="13:52" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="STEAL"></play>
+      <play vh="H" time="13:50" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="FOUL"></play>
+      <play vh="V" time="13:50" uni="04" team="BING" checkname="ROSE,TIMMY" action="SUB" type="IN"></play>
+      <play vh="V" time="13:50" uni="22" team="BING" checkname="DAVIS,EVERSON" action="SUB" type="OUT"></play>
+      <play vh="V" time="13:41" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="GOOD" type="3PTR" vscore="12" hscore="13"></play>
+      <play vh="V" time="13:41" uni="04" team="BING" checkname="ROSE,TIMMY" action="ASSIST"></play>
+      <play vh="H" time="13:24" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="MISS" type="3PTR"></play>
+      <play vh="V" time="13:24" uni="01" team="BING" checkname="II,MARLON BECK" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="13:16" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="14" hscore="13"></play>
+      <play vh="V" time="13:16" uni="01" team="BING" checkname="II,MARLON BECK" action="ASSIST"></play>
+      <play vh="H" time="13:02" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="GOOD" type="3PTR" vscore="14" hscore="16"></play>
+      <play vh="H" time="13:02" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="ASSIST"></play>
+      <play vh="V" time="12:57" uni="TM" team="BING" checkname="TEAM" action="FOUL" type="TECH"></play>
+      <play vh="H" time="12:57" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="FT" vscore="14" hscore="17"></play>
+      <play vh="H" time="12:57" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="FT" vscore="14" hscore="18"></play>
+      <play vh="V" time="12:57" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="SUB" type="IN"></play>
+      <play vh="V" time="12:57" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="SUB" type="OUT"></play>
+      <play vh="H" time="12:57" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="SUB" type="IN"></play>
+      <play vh="H" time="12:57" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="SUB" type="IN"></play>
+      <play vh="H" time="12:57" uni="13" team="OAKLAND" checkname="BRECHTING,BRAD" action="SUB" type="OUT"></play>
+      <play vh="H" time="12:57" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="SUB" type="OUT"></play>
+      <play vh="V" time="12:39" uni="01" team="BING" checkname="II,MARLON BECK" action="MISS" type="3PTR"></play>
+      <play vh="V" time="12:39" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="12:25" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="12:25" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="12:12" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="GOOD" type="3PTR" vscore="14" hscore="21"></play>
+      <play vh="H" time="12:12" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="ASSIST"></play>
+      <play vh="V" time="11:47" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="H" time="11:47" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="SUB" type="IN"></play>
+      <play vh="H" time="11:47" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="SUB" type="OUT"></play>
+      <play vh="V" time="11:39" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="11:39" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="11:33" uni="01" team="BING" checkname="II,MARLON BECK" action="MISS" type="3PTR"></play>
+      <play vh="H" time="11:33" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="11:17" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="11:17" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="11:06" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="GOOD" type="3PTR" vscore="17" hscore="21"></play>
+      <play vh="V" time="11:06" uni="04" team="BING" checkname="ROSE,TIMMY" action="ASSIST"></play>
+      <play vh="H" time="10:44" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="GOOD" type="LAYUP" paint="Y" vscore="17" hscore="23"></play>
+      <play vh="V" time="10:18" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="10:18" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="10:00" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="GOOD" type="3PTR" vscore="17" hscore="26"></play>
+      <play vh="H" time="10:00" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="ASSIST"></play>
+      <play vh="V" time="09:33" uni="04" team="BING" checkname="ROSE,TIMMY" action="GOOD" type="3PTR" vscore="20" hscore="26"></play>
+      <play vh="V" time="09:33" uni="01" team="BING" checkname="II,MARLON BECK" action="ASSIST"></play>
+      <play vh="H" time="09:19" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="MISS" type="3PTR"></play>
+      <play vh="V" time="09:19" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="09:12" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="GOOD" type="3PTR" fastb="Y" vscore="23" hscore="26"></play>
+      <play vh="V" time="09:12" uni="01" team="BING" checkname="II,MARLON BECK" action="ASSIST"></play>
+      <play vh="H" time="08:57" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="08:57" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="08:31" uni="01" team="BING" checkname="II,MARLON BECK" action="TURNOVER"></play>
+      <play vh="V" time="08:31" uni="22" team="BING" checkname="DAVIS,EVERSON" action="SUB" type="IN"></play>
+      <play vh="V" time="08:31" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="SUB" type="IN"></play>
+      <play vh="V" time="08:31" uni="01" team="BING" checkname="II,MARLON BECK" action="SUB" type="OUT"></play>
+      <play vh="V" time="08:31" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:31" uni="21" team="OAKLAND" checkname="CUMBERLAND,JAEVIN" action="SUB" type="IN"></play>
+      <play vh="H" time="08:31" uni="25" team="OAKLAND" checkname="OLUJOBI,FEMI" action="SUB" type="IN"></play>
+      <play vh="H" time="08:31" uni="13" team="OAKLAND" checkname="BRECHTING,BRAD" action="SUB" type="IN"></play>
+      <play vh="H" time="08:31" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:31" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:31" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:21" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="TURNOVER"></play>
+      <play vh="V" time="07:52" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="07:52" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="07:48" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="H" time="07:48" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="SUB" type="IN"></play>
+      <play vh="H" time="07:48" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="IN"></play>
+      <play vh="H" time="07:48" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="SUB" type="IN"></play>
+      <play vh="H" time="07:48" uni="21" team="OAKLAND" checkname="CUMBERLAND,JAEVIN" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:48" uni="25" team="OAKLAND" checkname="OLUJOBI,FEMI" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:48" uni="13" team="OAKLAND" checkname="BRECHTING,BRAD" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:45" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="FOUL"></play>
+      <play vh="V" time="07:45" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="GOOD" type="FT" vscore="24" hscore="26"></play>
+      <play vh="V" time="07:45" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="MISS" type="FT"></play>
+      <play vh="H" time="07:45" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:33" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="07:33" uni="22" team="BING" checkname="DAVIS,EVERSON" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:06" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="SUB" type="IN"></play>
+      <play vh="V" time="07:06" uni="04" team="BING" checkname="ROSE,TIMMY" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:00" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="3PTR" vscore="27" hscore="26"></play>
+      <play vh="V" time="07:00" uni="22" team="BING" checkname="DAVIS,EVERSON" action="ASSIST"></play>
+      <play vh="H" time="06:40" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="GOOD" type="JUMPER" vscore="27" hscore="28"></play>
+      <play vh="H" time="06:40" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="ASSIST"></play>
+      <play vh="H" time="06:27" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="FOUL"></play>
+      <play vh="H" time="06:16" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="FOUL"></play>
+      <play vh="V" time="05:57" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="05:57" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="05:53" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="GOOD" type="LAYUP" paint="Y" vscore="29" hscore="28"></play>
+      <play vh="H" time="05:38" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="05:38" uni="TM" team="OAKLAND" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="V" time="05:35" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="FOUL"></play>
+      <play vh="V" time="05:35" uni="01" team="BING" checkname="II,MARLON BECK" action="SUB" type="IN"></play>
+      <play vh="V" time="05:35" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:31" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="TURNOVER"></play>
+      <play vh="V" time="05:18" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="3PTR" vscore="32" hscore="28"></play>
+      <play vh="V" time="05:18" uni="01" team="BING" checkname="II,MARLON BECK" action="ASSIST"></play>
+      <play vh="H" time="05:04" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="GOOD" type="JUMPER" paint="Y" vscore="32" hscore="30"></play>
+      <play vh="H" time="05:04" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="ASSIST"></play>
+      <play vh="V" time="04:42" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="3PTR" vscore="35" hscore="30"></play>
+      <play vh="V" time="04:42" uni="01" team="BING" checkname="II,MARLON BECK" action="ASSIST"></play>
+      <play vh="H" time="04:24" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="04:24" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="04:23" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="FOUL"></play>
+      <play vh="H" time="04:23" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="GOOD" type="FT" vscore="35" hscore="31"></play>
+      <play vh="H" time="04:23" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="MISS" type="FT"></play>
+      <play vh="V" time="04:23" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="04:23" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="SUB" type="IN"></play>
+      <play vh="H" time="04:23" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="SUB" type="IN"></play>
+      <play vh="H" time="04:23" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="OUT"></play>
+      <play vh="H" time="04:23" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="SUB" type="OUT"></play>
+      <play vh="V" time="04:00" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="04:00" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="03:56" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="03:56" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="BLOCK"></play>
+      <play vh="V" time="03:54" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="03:54" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="BLOCK"></play>
+      <play vh="V" time="03:54" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="03:53" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="03:49" uni="TM" team="OAKLAND" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="V" time="03:23" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="FOUL"></play>
+      <play vh="V" time="03:23" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="TURNOVER"></play>
+      <play vh="V" time="03:04" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="03:04" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="03:02" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="SUB" type="IN"></play>
+      <play vh="V" time="03:02" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="SUB" type="OUT"></play>
+      <play vh="V" time="02:57" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="02:57" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="02:49" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="FOUL"></play>
+      <play vh="H" time="02:49" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="GOOD" type="FT" vscore="35" hscore="32"></play>
+      <play vh="H" time="02:49" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="MISS" type="FT"></play>
+      <play vh="V" time="02:49" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="02:33" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="FOUL"></play>
+      <play vh="V" time="02:33" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="36" hscore="32"></play>
+      <play vh="V" time="02:33" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="37" hscore="32"></play>
+      <play vh="H" time="02:20" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="GOOD" type="LAYUP" paint="Y" vscore="37" hscore="34"></play>
+      <play vh="H" time="02:20" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="ASSIST"></play>
+      <play vh="H" time="02:12" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="FOUL"></play>
+      <play vh="V" time="02:12" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="38" hscore="34"></play>
+      <play vh="V" time="02:12" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="39" hscore="34"></play>
+      <play vh="V" time="02:12" uni="04" team="BING" checkname="ROSE,TIMMY" action="SUB" type="IN"></play>
+      <play vh="V" time="02:12" uni="22" team="BING" checkname="DAVIS,EVERSON" action="SUB" type="OUT"></play>
+      <play vh="H" time="02:04" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="GOOD" type="3PTR" vscore="39" hscore="37"></play>
+      <play vh="H" time="02:04" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="ASSIST"></play>
+      <play vh="V" time="01:49" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="GOOD" type="3PTR" fastb="Y" vscore="42" hscore="37"></play>
+      <play vh="V" time="01:49" uni="01" team="BING" checkname="II,MARLON BECK" action="ASSIST"></play>
+      <play vh="H" time="01:39" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="GOOD" type="JUMPER" paint="Y" vscore="42" hscore="39"></play>
+      <play vh="H" time="01:39" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="ASSIST"></play>
+      <play vh="V" time="01:39" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="FOUL"></play>
+      <play vh="H" time="01:39" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="GOOD" type="FT" vscore="42" hscore="40"></play>
+      <play vh="V" time="01:22" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="01:22" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="01:13" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="TURNOVER"></play>
+      <play vh="V" time="01:13" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="V" time="01:13" uni="22" team="BING" checkname="DAVIS,EVERSON" action="SUB" type="IN"></play>
+      <play vh="V" time="01:13" uni="04" team="BING" checkname="ROSE,TIMMY" action="SUB" type="OUT"></play>
+      <play vh="H" time="01:05" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="SUB" type="IN"></play>
+      <play vh="H" time="01:05" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:47" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:47" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:38" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="GOOD" type="3PTR" fastb="Y" vscore="42" hscore="43"></play>
+      <play vh="H" time="00:38" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="ASSIST"></play>
+      <play vh="V" time="00:34" uni="12" team="BING" checkname="RINALDI,JOHN" action="SUB" type="IN"></play>
+      <play vh="V" time="00:34" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:34" uni="21" team="OAKLAND" checkname="CUMBERLAND,JAEVIN" action="SUB" type="IN"></play>
+      <play vh="H" time="00:34" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:18" uni="01" team="BING" checkname="II,MARLON BECK" action="GOOD" type="3PTR" vscore="45" hscore="43"></play>
+      <play vh="V" time="00:18" uni="22" team="BING" checkname="DAVIS,EVERSON" action="ASSIST"></play>
+      <play vh="H" time="00:12" uni="TM" team="OAKLAND" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="H" time="00:12" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="IN"></play>
+      <play vh="H" time="00:12" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="SUB" type="IN"></play>
+      <play vh="H" time="00:12" uni="21" team="OAKLAND" checkname="CUMBERLAND,JAEVIN" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:12" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:03" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="GOOD" type="LAYUP" paint="Y" vscore="45" hscore="45"></play>
+      <play vh="H" time="00:03" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="ASSIST"></play>
+      <clock time="00:00"></clock>
+    </period>
+    <period number="2" time="20:00">
+      <special vh="V" pts_to="9" pts_ch2="2" pts_paint="12" pts_fastb="6" pts_bench="3" ties="1" leads="2"
+               poss_count="41" poss_time="593" score_count="11" score_time="176" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="9" pts_ch2="4" pts_paint="22" pts_fastb="8" pts_bench="3" ties="1" leads="3"
+               poss_count="41" poss_time="607" score_count="19" score_time="228" large_lead="-" large_lead_t="-"></special>
+      <summary vh="V" fgm="10" fga="33" fgm3="4" fga3="15" ftm="3" fta="3" blk="0" stl="2" ast="5"
+               oreb="2" dreb="13" treb="15" pf="11" tf="0" to="8"></summary>
+      <summary vh="H" fgm="13" fga="32" fgm3="1" fga3="6" ftm="11" fta="16" blk="1" stl="7" ast="7"
+               oreb="6" dreb="21" treb="27" pf="5" tf="0" to="6"></summary>
+      <play vh="V" time="20:00" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="IN"></play>
+      <play vh="V" time="20:00" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="SUB" type="OUT"></play>
+      <play vh="H" time="19:48" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="GOOD" type="LAYUP" paint="Y" vscore="45" hscore="47"></play>
+      <play vh="H" time="19:48" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="ASSIST"></play>
+      <play vh="V" time="19:31" uni="01" team="BING" checkname="II,MARLON BECK" action="MISS" type="3PTR"></play>
+      <play vh="H" time="19:31" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="19:15" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="MISS" type="3PTR"></play>
+      <play vh="V" time="19:15" uni="01" team="BING" checkname="II,MARLON BECK" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="18:58" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="18:58" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="BLOCK"></play>
+      <play vh="H" time="18:55" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="18:52" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="45" hscore="49"></play>
+      <play vh="V" time="18:44" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="18:44" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="18:23" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="18:23" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="18:06" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="18:06" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="17:55" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="17:55" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="17:52" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="FOUL"></play>
+      <play vh="H" time="17:52" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="SUB" type="IN"></play>
+      <play vh="H" time="17:52" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="SUB" type="OUT"></play>
+      <play vh="V" time="17:27" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="17:27" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="17:12" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="17:12" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="16:50" uni="15" team="BING" checkname="AHEARN,BOBBY" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="16:50" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="16:37" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="16:37" uni="22" team="BING" checkname="DAVIS,EVERSON" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="16:09" uni="15" team="BING" checkname="AHEARN,BOBBY" action="TURNOVER"></play>
+      <play vh="H" time="16:07" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="STEAL"></play>
+      <play vh="V" time="16:04" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="FOUL"></play>
+      <play vh="H" time="16:04" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="MISS" type="FT"></play>
+      <play vh="H" time="16:04" uni="TM" team="OAKLAND" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="16:04" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="GOOD" type="FT" vscore="45" hscore="50"></play>
+      <play vh="H" time="16:04" uni="21" team="OAKLAND" checkname="CUMBERLAND,JAEVIN" action="SUB" type="IN"></play>
+      <play vh="H" time="16:04" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="SUB" type="IN"></play>
+      <play vh="H" time="16:04" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="SUB" type="OUT"></play>
+      <play vh="H" time="16:04" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="OUT"></play>
+      <play vh="V" time="15:35" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="15:35" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="15:21" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="GOOD" type="3PTR" vscore="45" hscore="53"></play>
+      <play vh="H" time="15:21" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="ASSIST"></play>
+      <play vh="V" time="15:02" uni="01" team="BING" checkname="II,MARLON BECK" action="GOOD" type="3PTR" vscore="48" hscore="53"></play>
+      <play vh="V" time="15:02" uni="22" team="BING" checkname="DAVIS,EVERSON" action="ASSIST"></play>
+      <play vh="V" time="14:49" uni="22" team="BING" checkname="DAVIS,EVERSON" action="FOUL"></play>
+      <play vh="H" time="14:49" uni="TM" team="OAKLAND" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="H" time="14:49" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="MISS" type="FT"></play>
+      <play vh="H" time="14:49" uni="TM" team="OAKLAND" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="14:49" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="GOOD" type="FT" vscore="48" hscore="54"></play>
+      <play vh="V" time="14:49" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="SUB" type="IN"></play>
+      <play vh="V" time="14:49" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="14:49" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="SUB" type="IN"></play>
+      <play vh="H" time="14:49" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="IN"></play>
+      <play vh="H" time="14:49" uni="25" team="OAKLAND" checkname="OLUJOBI,FEMI" action="SUB" type="IN"></play>
+      <play vh="H" time="14:49" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="SUB" type="OUT"></play>
+      <play vh="H" time="14:49" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="SUB" type="OUT"></play>
+      <play vh="H" time="14:49" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="SUB" type="OUT"></play>
+      <play vh="V" time="14:41" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="14:41" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="14:30" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="TURNOVER"></play>
+      <play vh="V" time="14:20" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="50" hscore="54"></play>
+      <play vh="V" time="14:20" uni="15" team="BING" checkname="AHEARN,BOBBY" action="ASSIST"></play>
+      <play vh="H" time="14:02" uni="25" team="OAKLAND" checkname="OLUJOBI,FEMI" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="14:02" uni="01" team="BING" checkname="II,MARLON BECK" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="13:45" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="13:45" uni="15" team="BING" checkname="AHEARN,BOBBY" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="13:41" uni="15" team="BING" checkname="AHEARN,BOBBY" action="GOOD" type="LAYUP" paint="Y" vscore="52" hscore="54"></play>
+      <play vh="H" time="13:24" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="JUMPER" paint="Y" vscore="52" hscore="56"></play>
+      <play vh="V" time="13:14" uni="01" team="BING" checkname="II,MARLON BECK" action="TURNOVER"></play>
+      <play vh="H" time="13:13" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="STEAL"></play>
+      <play vh="H" time="13:11" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="52" hscore="58"></play>
+      <play vh="H" time="13:11" uni="25" team="OAKLAND" checkname="OLUJOBI,FEMI" action="ASSIST"></play>
+      <play vh="V" time="12:58" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="12:58" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="12:36" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="MISS" type="3PTR"></play>
+      <play vh="V" time="12:36" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="12:33" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="SUB" type="IN"></play>
+      <play vh="H" time="12:33" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="SUB" type="IN"></play>
+      <play vh="H" time="12:33" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="SUB" type="IN"></play>
+      <play vh="H" time="12:33" uni="21" team="OAKLAND" checkname="CUMBERLAND,JAEVIN" action="SUB" type="OUT"></play>
+      <play vh="H" time="12:33" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="OUT"></play>
+      <play vh="H" time="12:33" uni="25" team="OAKLAND" checkname="OLUJOBI,FEMI" action="SUB" type="OUT"></play>
+      <play vh="V" time="12:32" uni="22" team="BING" checkname="DAVIS,EVERSON" action="TURNOVER"></play>
+      <play vh="H" time="12:32" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="STEAL"></play>
+      <play vh="V" time="12:32" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="FOUL"></play>
+      <play vh="V" time="12:32" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="IN"></play>
+      <play vh="V" time="12:32" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="SUB" type="OUT"></play>
+      <play vh="H" time="12:28" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="12:28" uni="22" team="BING" checkname="DAVIS,EVERSON" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="12:15" uni="01" team="BING" checkname="II,MARLON BECK" action="GOOD" type="3PTR" vscore="55" hscore="58"></play>
+      <play vh="V" time="12:15" uni="22" team="BING" checkname="DAVIS,EVERSON" action="ASSIST"></play>
+      <play vh="V" time="12:12" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="H" time="11:52" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="TURNOVER"></play>
+      <play vh="V" time="11:51" uni="22" team="BING" checkname="DAVIS,EVERSON" action="STEAL"></play>
+      <play vh="V" time="11:49" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="57" hscore="58"></play>
+      <play vh="H" time="11:49" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="FOUL"></play>
+      <play vh="V" time="11:49" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="V" time="11:49" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="58" hscore="58"></play>
+      <play vh="H" time="11:49" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="IN"></play>
+      <play vh="H" time="11:49" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="SUB" type="OUT"></play>
+      <play vh="H" time="11:35" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="MISS" type="3PTR"></play>
+      <play vh="H" time="11:35" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="11:32" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="FOUL"></play>
+      <play vh="H" time="11:32" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="GOOD" type="FT" vscore="58" hscore="59"></play>
+      <play vh="H" time="11:32" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="GOOD" type="FT" vscore="58" hscore="60"></play>
+      <play vh="V" time="11:11" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="GOOD" type="3PTR" vscore="61" hscore="60"></play>
+      <play vh="V" time="11:11" uni="15" team="BING" checkname="AHEARN,BOBBY" action="ASSIST"></play>
+      <play vh="H" time="10:46" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="TURNOVER"></play>
+      <play vh="V" time="10:32" uni="22" team="BING" checkname="DAVIS,EVERSON" action="FOUL"></play>
+      <play vh="V" time="10:32" uni="22" team="BING" checkname="DAVIS,EVERSON" action="TURNOVER"></play>
+      <play vh="H" time="10:32" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="SUB" type="IN"></play>
+      <play vh="H" time="10:32" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="SUB" type="OUT"></play>
+      <play vh="H" time="10:19" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="GOOD" type="JUMPER" paint="Y" vscore="61" hscore="62"></play>
+      <play vh="H" time="10:19" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="ASSIST"></play>
+      <play vh="V" time="10:00" uni="01" team="BING" checkname="II,MARLON BECK" action="GOOD" type="3PTR" vscore="64" hscore="62"></play>
+      <play vh="H" time="09:41" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="TURNOVER"></play>
+      <play vh="H" time="09:27" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="FOUL"></play>
+      <play vh="V" time="09:27" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="65" hscore="62"></play>
+      <play vh="V" time="09:27" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="66" hscore="62"></play>
+      <play vh="H" time="09:11" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="09:11" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="09:06" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="09:06" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="08:49" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="08:49" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="08:44" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="FOUL"></play>
+      <play vh="H" time="08:44" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="SUB" type="IN"></play>
+      <play vh="H" time="08:44" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:32" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="TURNOVER"></play>
+      <play vh="H" time="08:16" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="FOUL"></play>
+      <play vh="V" time="08:15" uni="22" team="BING" checkname="DAVIS,EVERSON" action="TURNOVER"></play>
+      <play vh="H" time="08:13" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="STEAL"></play>
+      <play vh="H" time="08:06" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="08:06" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="08:02" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="08:02" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="07:58" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="GOOD" type="LAYUP" paint="Y" vscore="66" hscore="64"></play>
+      <play vh="V" time="07:56" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="V" time="07:56" uni="01" team="BING" checkname="II,MARLON BECK" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:56" uni="15" team="BING" checkname="AHEARN,BOBBY" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:56" uni="22" team="BING" checkname="DAVIS,EVERSON" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:56" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:56" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:56" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:56" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:56" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:56" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:34" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="07:34" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:08" uni="22" team="BING" checkname="DAVIS,EVERSON" action="FOUL"></play>
+      <play vh="H" time="07:08" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="FT" vscore="66" hscore="65"></play>
+      <play vh="H" time="07:08" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="FT" vscore="66" hscore="66"></play>
+      <play vh="V" time="07:08" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="SUB" type="IN"></play>
+      <play vh="V" time="07:08" uni="04" team="BING" checkname="ROSE,TIMMY" action="SUB" type="IN"></play>
+      <play vh="V" time="06:50" uni="04" team="BING" checkname="ROSE,TIMMY" action="MISS" type="3PTR"></play>
+      <play vh="H" time="06:50" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="06:41" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="66" hscore="68"></play>
+      <play vh="V" time="06:11" uni="15" team="BING" checkname="AHEARN,BOBBY" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="06:11" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="06:03" uni="01" team="BING" checkname="II,MARLON BECK" action="FOUL"></play>
+      <play vh="H" time="06:03" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="FT" vscore="66" hscore="69"></play>
+      <play vh="H" time="06:03" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="MISS" type="FT"></play>
+      <play vh="V" time="06:03" uni="15" team="BING" checkname="AHEARN,BOBBY" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="06:03" uni="22" team="BING" checkname="DAVIS,EVERSON" action="SUB" type="IN"></play>
+      <play vh="V" time="06:03" uni="04" team="BING" checkname="ROSE,TIMMY" action="SUB" type="OUT"></play>
+      <play vh="H" time="06:03" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="SUB" type="IN"></play>
+      <play vh="V" time="05:49" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="05:49" uni="TM" team="OAKLAND" checkname="TEAM" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="05:32" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="LAYUP" paint="Y" vscore="66" hscore="71"></play>
+      <play vh="H" time="05:32" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="ASSIST"></play>
+      <play vh="V" time="05:30" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="V" time="05:06" uni="15" team="BING" checkname="AHEARN,BOBBY" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="05:06" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="04:57" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="04:57" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="04:53" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="MISS" type="TIPIN"></play>
+      <play vh="V" time="04:53" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="04:32" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="LAYUP" paint="Y" vscore="68" hscore="71"></play>
+      <play vh="V" time="04:32" uni="15" team="BING" checkname="AHEARN,BOBBY" action="ASSIST"></play>
+      <play vh="V" time="04:29" uni="15" team="BING" checkname="AHEARN,BOBBY" action="FOUL"></play>
+      <play vh="H" time="04:29" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="GOOD" type="FT" vscore="68" hscore="72"></play>
+      <play vh="H" time="04:29" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="GOOD" type="FT" vscore="68" hscore="73"></play>
+      <play vh="V" time="04:29" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="IN"></play>
+      <play vh="V" time="04:17" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="04:17" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="04:08" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="GOOD" type="JUMPER" vscore="68" hscore="75"></play>
+      <play vh="V" time="03:49" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="03:49" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="03:40" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="FT" vscore="68" hscore="76"></play>
+      <play vh="V" time="03:40" uni="01" team="BING" checkname="II,MARLON BECK" action="FOUL"></play>
+      <play vh="H" time="03:40" uni="TM" team="OAKLAND" checkname="TEAM" action="TIMEOUT" type="media"></play>
+      <play vh="H" time="03:40" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="FT" vscore="68" hscore="77"></play>
+      <play vh="V" time="03:40" uni="15" team="BING" checkname="AHEARN,BOBBY" action="SUB" type="IN"></play>
+      <play vh="V" time="03:40" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="03:40" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="SUB" type="IN"></play>
+      <play vh="H" time="03:40" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="IN"></play>
+      <play vh="H" time="03:40" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="SUB" type="OUT"></play>
+      <play vh="V" time="03:25" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="03:25" uni="22" team="BING" checkname="DAVIS,EVERSON" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="03:21" uni="22" team="BING" checkname="DAVIS,EVERSON" action="TURNOVER"></play>
+      <play vh="H" time="03:20" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="STEAL"></play>
+      <play vh="H" time="03:16" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="03:16" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="03:15" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="FOUL"></play>
+      <play vh="V" time="03:01" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="03:01" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="02:45" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="TURNOVER"></play>
+      <play vh="V" time="02:38" uni="01" team="BING" checkname="II,MARLON BECK" action="STEAL"></play>
+      <play vh="V" time="02:36" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="70" hscore="77"></play>
+      <play vh="H" time="02:17" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="02:17" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="02:13" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="MISS" type="3PTR"></play>
+      <play vh="V" time="02:13" uni="15" team="BING" checkname="AHEARN,BOBBY" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="02:09" uni="15" team="BING" checkname="AHEARN,BOBBY" action="TURNOVER"></play>
+      <play vh="H" time="02:08" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="STEAL"></play>
+      <play vh="H" time="01:54" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="01:54" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="01:47" uni="01" team="BING" checkname="II,MARLON BECK" action="MISS" type="3PTR"></play>
+      <play vh="H" time="01:47" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="01:41" uni="TM" team="OAKLAND" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="H" time="01:41" uni="10" team="OAKLAND" checkname="HOOPER,MAX" action="SUB" type="IN"></play>
+      <play vh="H" time="01:41" uni="02" team="OAKLAND" checkname="DANIELS,NICK" action="SUB" type="OUT"></play>
+      <play vh="H" time="01:29" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="LAYUP" paint="Y" vscore="70" hscore="79"></play>
+      <play vh="V" time="01:21" uni="22" team="BING" checkname="DAVIS,EVERSON" action="TURNOVER"></play>
+      <play vh="H" time="01:19" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="STEAL"></play>
+      <play vh="H" time="01:17" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="70" hscore="81"></play>
+      <play vh="H" time="01:17" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="ASSIST"></play>
+      <play vh="V" time="01:08" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="01:08" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:44" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="GOOD" type="DUNK" paint="Y" vscore="70" hscore="83"></play>
+      <play vh="H" time="00:44" uni="20" team="OAKLAND" checkname="FELDER,KAY" action="ASSIST"></play>
+      <play vh="V" time="00:38" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="LAYUP" paint="Y" vscore="72" hscore="83"></play>
+      <play vh="V" time="00:37" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="FOUL"></play>
+      <play vh="H" time="00:37" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="MISS" type="FT"></play>
+      <play vh="H" time="00:37" uni="TM" team="OAKLAND" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="00:37" uni="30" team="OAKLAND" checkname="DORSEY-WALKER,S" action="MISS" type="FT"></play>
+      <play vh="V" time="00:37" uni="15" team="BING" checkname="AHEARN,BOBBY" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:37" uni="13" team="OAKLAND" checkname="BRECHTING,BRAD" action="SUB" type="IN"></play>
+      <play vh="H" time="00:37" uni="14" team="OAKLAND" checkname="HILL-MAIS,XAVIER" action="SUB" type="IN"></play>
+      <play vh="H" time="00:37" uni="04" team="OAKLAND" checkname="HAYES,JALEN" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:37" uni="24" team="OAKLAND" checkname="GIBSON,PERCY" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:31" uni="01" team="BING" checkname="II,MARLON BECK" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:31" uni="13" team="OAKLAND" checkname="BRECHTING,BRAD" action="REBOUND" type="DEF"></play>
+      <clock time="00:00"></clock>
+    </period>
+  </plays>
+</bbgame>

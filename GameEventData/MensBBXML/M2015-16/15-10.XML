@@ -1,0 +1,609 @@
+<bbgame source="STAT CREW Basketball" version="4.14.06" generated="3/9/2016">
+  <venue gameid="15-10"
+           visid="SFUM" visname="St. Francis (Pa.)"
+           homeid="BING" homename="Binghamton Univ."
+           date="12/15/2015" location="Bai Lee Court, Events Center, Vestal, NY"
+           time="7:30 p.m." attend="1870" schednote=""
+           leaguegame="N" neutralgame="N" postseason="N">
+    <officials text="D.J. Carstensen, Clarence Armstrong, Kenneth Turner"></officials>
+    <rules prds="2" minutes="20" minutesot="5" fouls="5" qh="H"></rules>
+  </venue>
+  <status complete="Y" period="2" clock="00:00" running="F"></status>
+  <team vh="V" id="SFUM" name="St. Francis (Pa.)" code="" record="4-5">
+    <linescore line="31,36" score="67">
+      <lineprd prd="1" score="31"></lineprd>
+      <lineprd prd="2" score="36"></lineprd>
+    </linescore>
+    <totals>
+      <stats fgm="25" fga="51" fgm3="4" fga3="12" ftm="13" fta="21" tp="67" blk="4" stl="7" ast="14" min="200" oreb="8" dreb="31" treb="39" pf="22" tf="1" to="14" deadball="1,0"
+             fgpct="49.0" fg3pct="33.3" ftpct="61.9"></stats>
+      <statsbyprd prd="1" fgm="13" fga="28" fgm3="4" fga3="10" ftm="1" fta="3" tp="31" blk="0" stl="2" ast="7" min="100" oreb="5" dreb="14" treb="19" pf="10" tf="0" to="6"></statsbyprd>
+      <statsbyprd prd="2" fgm="12" fga="23" fgm3="0" fga3="2" ftm="12" fta="18" tp="36" blk="4" stl="5" ast="7" min="100" oreb="3" dreb="17" treb="20" pf="12" tf="1" to="8"></statsbyprd>
+      <special vh="V" pts_to="11" pts_ch2="5" pts_paint="34" pts_fastb="2" pts_bench="17" ties="6" leads="4"
+               poss_count="69" poss_time="1215" score_count="32" score_time="498" large_lead="11" large_lead_t="2nd-10:53"></special>
+    </totals>
+    <player uni="00" code="00" name="Umezurike,Ifeanyi" checkname="UMEZURIKE,IFEANYI" gp="0"></player>
+    <player uni="01" code="01" name="Harmon, Malik" checkname="HARMON,MALIK" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="0" fga="2" fgm3="0" fga3="1" ftm="2" fta="5" tp="2" blk="0" stl="2" ast="2" min="19" oreb="0" dreb="3" treb="3" pf="4" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="4" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="2" fgm3="0" fga3="1" ftm="2" fta="5" tp="2" blk="0" stl="2" ast="1" min="15" oreb="0" dreb="3" treb="3" pf="2" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="02" code="02" name="Meredith, Scott" checkname="MEREDITH,SCOTT" gp="0"></player>
+    <player uni="03" code="03" name="King, Jamaal" checkname="KING,JAMAAL" gp="0"></player>
+    <player uni="04" code="04" name="Forehand, Jordan" checkname="FOREHAND,JORDAN" gp="0"></player>
+    <player uni="05" code="05" name="Wallace, Daniel" checkname="WALLACE,DANIEL" gp="0"></player>
+    <player uni="11" code="11" name="Millaud-Meunier, Ben" checkname="MILLAUD-MEUNIER,BEN" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="4" fga="8" fgm3="2" fga3="4" ftm="6" fta="7" tp="16" blk="0" stl="1" ast="3" min="35" oreb="0" dreb="2" treb="2" pf="3" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="3" fga="6" fgm3="2" fga3="4" ftm="0" fta="0" tp="8" blk="0" stl="0" ast="1" min="17" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="2" fgm3="0" fga3="0" ftm="6" fta="7" tp="8" blk="0" stl="1" ast="2" min="18" oreb="0" dreb="2" treb="2" pf="3" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="12" code="12" name="Brown, Greg" checkname="BROWN,GREG" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="4" fga="8" fgm3="0" fga3="2" ftm="0" fta="0" tp="8" blk="1" stl="2" ast="4" min="39" oreb="0" dreb="3" treb="3" pf="2" tf="1" to="5" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="2" blk="0" stl="1" ast="1" min="19" oreb="0" dreb="2" treb="2" pf="0" tf="0" to="3" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="3" fga="6" fgm3="0" fga3="1" ftm="0" fta="0" tp="6" blk="1" stl="1" ast="3" min="20" oreb="0" dreb="1" treb="1" pf="2" tf="1" to="2" dq="0"></statsbyprd>
+    </player>
+    <player uni="14" code="14" name="Wolford, Andre" checkname="WOLFORD,ANDRE" gp="0"></player>
+    <player uni="22" code="22" name="Klebon, Michael" checkname="KLEBON,MICHAEL" gp="0"></player>
+    <player uni="23" code="23" name="Angelou, Georgios" checkname="ANGELOU,GEORGIOS" gp="1">
+      <stats fgm="2" fga="2" fgm3="2" fga3="2" ftm="0" fta="0" tp="6" blk="0" stl="0" ast="2" min="17" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="2" fgm3="2" fga3="2" ftm="0" fta="0" tp="6" blk="0" stl="0" ast="2" min="12" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="5" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="24" code="24" name="Blackmon, Isaiah" checkname="BLACKMON,ISAIAH" gp="1">
+      <stats fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="1" tp="2" blk="0" stl="0" ast="2" min="11" oreb="2" dreb="2" treb="4" pf="4" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="0" fga3="0" ftm="0" fta="1" tp="2" blk="0" stl="0" ast="1" min="9" oreb="2" dreb="1" treb="3" pf="3" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="2" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="32" code="32" name="Nebo, Josh" checkname="NEBO,JOSH" gp="1" gs="1" pos="c">
+      <stats fgm="6" fga="6" fgm3="0" fga3="0" ftm="1" fta="2" tp="13" blk="3" stl="0" ast="0" min="20" oreb="0" dreb="2" treb="2" pf="3" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="4" fga="4" fgm3="0" fga3="0" ftm="1" fta="2" tp="9" blk="0" stl="0" ast="0" min="9" oreb="0" dreb="0" treb="0" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="2" fgm3="0" fga3="0" ftm="0" fta="0" tp="4" blk="3" stl="0" ast="0" min="11" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="2" dq="0"></statsbyprd>
+    </player>
+    <player uni="33" code="33" name="Wrencher, Patrick" checkname="WRENCHER,PATRICK" gp="1">
+      <stats fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="7" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="1" ast="0" min="7" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="35" code="35" name="Thompson, Basil" checkname="THOMPSON,BASIL" gp="1" oncourt="Y">
+      <stats fgm="4" fga="10" fgm3="0" fga3="1" ftm="1" fta="2" tp="9" blk="0" stl="0" ast="0" min="18" oreb="1" dreb="5" treb="6" pf="3" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="3" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="4" fga="7" fgm3="0" fga3="0" ftm="1" fta="2" tp="9" blk="0" stl="0" ast="0" min="12" oreb="1" dreb="3" treb="4" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="40" code="40" name="Drinnon, Ronnie" checkname="DRINNON,RONNIE" gp="1" gs="1" pos="f" oncourt="Y">
+      <stats fgm="4" fga="13" fgm3="0" fga3="2" ftm="3" fta="4" tp="11" blk="0" stl="1" ast="1" min="34" oreb="4" dreb="12" treb="16" pf="2" tf="0" to="3" dq="0"></stats>
+      <statsbyprd prd="1" fgm="2" fga="9" fgm3="0" fga3="2" ftm="0" fta="0" tp="4" blk="0" stl="0" ast="1" min="17" oreb="2" dreb="8" treb="10" pf="1" tf="0" to="2" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="4" fgm3="0" fga3="0" ftm="3" fta="4" tp="7" blk="0" stl="1" ast="0" min="17" oreb="2" dreb="4" treb="6" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" gp="1">
+      <stats oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+  </team>
+  <team vh="H" id="BING" name="Binghamton Univ." code="62" record="2-8">
+    <linescore line="30,31" score="61">
+      <lineprd prd="1" score="30"></lineprd>
+      <lineprd prd="2" score="31"></lineprd>
+    </linescore>
+    <totals>
+      <stats fgm="19" fga="50" fgm3="5" fga3="21" ftm="18" fta="29" tp="61" blk="0" stl="5" ast="9" min="200" oreb="7" dreb="25" treb="32" pf="19" tf="0" to="12" deadball="4,0"
+             fgpct="38.0" fg3pct="23.8" ftpct="62.1"></stats>
+      <statsbyprd prd="1" fgm="10" fga="24" fgm3="2" fga3="7" ftm="8" fta="10" tp="30" blk="0" stl="2" ast="6" min="100" oreb="1" dreb="12" treb="13" pf="7" tf="0" to="4"></statsbyprd>
+      <statsbyprd prd="2" fgm="9" fga="26" fgm3="3" fga3="14" ftm="10" fta="19" tp="31" blk="0" stl="3" ast="3" min="100" oreb="6" dreb="13" treb="19" pf="12" tf="0" to="8"></statsbyprd>
+      <special vh="H" pts_to="9" pts_ch2="5" pts_paint="18" pts_fastb="2" pts_bench="6" ties="1" leads="3"
+               poss_count="70" poss_time="1182" score_count="31" score_time="539" large_lead="5" large_lead_t="1st-12:19"></special>
+    </totals>
+    <player uni="00" code="00" name="Karon Waller" checkname="WALLER,KARON" gp="0"></player>
+    <player uni="01" code="01" name="Marlon Beck II" checkname="II,MARLON BECK" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="0" fga="5" fgm3="0" fga3="3" ftm="0" fta="2" tp="0" blk="0" stl="2" ast="3" min="38" oreb="1" dreb="4" treb="5" pf="1" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="2" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="1" min="18" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="3" fgm3="0" fga3="2" ftm="0" fta="2" tp="0" blk="0" stl="2" ast="2" min="20" oreb="1" dreb="3" treb="4" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="04" code="04" name="Timmy Rose" checkname="ROSE,TIMMY" gp="1" oncourt="Y">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="4" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" sec="+" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="10" code="10" name="Yosef Yacob" checkname="YACOB,YOSEF" gp="0"></player>
+    <player uni="11" code="11" name="Romello Walker" checkname="WALKER,ROMELLO" gp="0"></player>
+    <player uni="12" code="12" name="John Rinaldi" checkname="RINALDI,JOHN" gp="1">
+      <stats fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="0" fgm3="0" fga3="0" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="0" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="14" code="14" name="Jordan McRae" checkname="MCRAE,JORDAN" gp="0"></player>
+    <player uni="15" code="15" name="Bobby Ahearn" checkname="AHEARN,BOBBY" gp="0"></player>
+    <player uni="22" code="22" name="Everson Davis" checkname="DAVIS,EVERSON" gp="1" gs="1" pos="g" oncourt="Y">
+      <stats fgm="3" fga="9" fgm3="0" fga3="3" ftm="11" fta="14" tp="17" blk="0" stl="0" ast="4" min="36" oreb="0" dreb="4" treb="4" pf="3" tf="0" to="2" dq="0"></stats>
+      <statsbyprd prd="1" fgm="1" fga="3" fgm3="0" fga3="1" ftm="5" fta="6" tp="7" blk="0" stl="0" ast="3" min="16" oreb="0" dreb="3" treb="3" pf="2" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="6" fgm3="0" fga3="2" ftm="6" fta="8" tp="10" blk="0" stl="0" ast="1" min="20" oreb="0" dreb="1" treb="1" pf="1" tf="0" to="2" dq="0"></statsbyprd>
+    </player>
+    <player uni="25" code="25" name="Justin McFadden" checkname="MCFADDEN,JUSTIN" gp="1" gs="1" pos="f">
+      <stats fgm="2" fga="3" fgm3="1" fga3="2" ftm="0" fta="1" tp="5" blk="0" stl="1" ast="0" min="36" oreb="2" dreb="2" treb="4" pf="5" tf="0" to="2" dq="1"></stats>
+      <statsbyprd prd="1" fgm="1" fga="1" fgm3="1" fga3="1" ftm="0" fta="0" tp="3" blk="0" stl="1" ast="0" min="16" oreb="1" dreb="0" treb="1" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="2" fgm3="0" fga3="1" ftm="0" fta="1" tp="2" blk="0" stl="0" ast="0" min="20" oreb="1" dreb="2" treb="3" pf="4" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="30" code="30" name="John Schurman" checkname="SCHURMAN,JOHN" gp="1" oncourt="Y">
+      <stats fgm="0" fga="2" fgm3="0" fga3="2" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="6" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="5" oreb="0" dreb="1" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="0" fga="1" fgm3="0" fga3="1" ftm="0" fta="0" tp="0" blk="0" stl="0" ast="0" min="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+    <player uni="32" code="32" name="Thomas Bruce" checkname="BRUCE,THOMAS" gp="1">
+      <stats fgm="1" fga="4" fgm3="0" fga3="0" ftm="4" fta="6" tp="6" blk="0" stl="1" ast="0" min="23" oreb="3" dreb="0" treb="3" pf="2" tf="0" to="1" dq="0"></stats>
+      <statsbyprd prd="1" fgm="0" fga="2" fgm3="0" fga3="0" ftm="2" fta="2" tp="2" blk="0" stl="1" ast="0" min="12" oreb="0" dreb="0" treb="0" pf="1" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="1" fga="2" fgm3="0" fga3="0" ftm="2" fta="4" tp="4" blk="0" stl="0" ast="0" min="11" oreb="3" dreb="0" treb="3" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+    </player>
+    <player uni="41" code="41" name="Dusan Perovic" checkname="PEROVIC,DUSAN" gp="1" gs="1" pos="c" oncourt="Y">
+      <stats fgm="7" fga="15" fgm3="4" fga3="8" ftm="1" fta="2" tp="19" blk="0" stl="0" ast="0" min="22" oreb="0" dreb="8" treb="8" pf="2" tf="0" to="3" dq="0"></stats>
+      <statsbyprd prd="1" fgm="4" fga="7" fgm3="1" fga3="2" ftm="0" fta="0" tp="9" blk="0" stl="0" ast="0" min="12" oreb="0" dreb="4" treb="4" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="3" fga="8" fgm3="3" fga3="6" ftm="1" fta="2" tp="10" blk="0" stl="0" ast="0" min="10" oreb="0" dreb="4" treb="4" pf="1" tf="0" to="2" dq="0"></statsbyprd>
+    </player>
+    <player uni="42" code="42" name="Willie Rodriguez" checkname="RODRIGUEZ,WILLIE" gp="1" gs="1" pos="f">
+      <stats fgm="6" fga="12" fgm3="0" fga3="3" ftm="2" fta="4" tp="14" blk="0" stl="1" ast="2" min="34" oreb="0" dreb="5" treb="5" pf="5" tf="0" to="3" dq="1"></stats>
+      <statsbyprd prd="1" fgm="4" fga="8" fgm3="0" fga3="1" ftm="1" fta="2" tp="9" blk="0" stl="0" ast="2" min="16" oreb="0" dreb="2" treb="2" pf="1" tf="0" to="1" dq="0"></statsbyprd>
+      <statsbyprd prd="2" fgm="2" fga="4" fgm3="0" fga3="2" ftm="1" fta="2" tp="5" blk="0" stl="1" ast="0" min="18" oreb="0" dreb="3" treb="3" pf="4" tf="0" to="2" dq="0"></statsbyprd>
+    </player>
+    <player uni="TM" code="TM" name="TEAM" checkname="TEAM" gp="1">
+      <stats oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></stats>
+      <statsbyprd prd="1" oreb="0" dreb="0" treb="0" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+      <statsbyprd prd="2" oreb="1" dreb="0" treb="1" pf="0" tf="0" to="0" dq="0"></statsbyprd>
+    </player>
+  </team>
+  <plays format="tokens">
+    <period number="1" time="20:00">
+      <special vh="V" pts_to="2" pts_ch2="5" pts_paint="12" pts_fastb="0" pts_bench="8" ties="6" leads="4"
+               poss_count="31" poss_time="590" score_count="14" score_time="251" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="2" pts_ch2="0" pts_paint="10" pts_fastb="2" pts_bench="2" ties="1" leads="3"
+               poss_count="32" poss_time="607" score_count="14" score_time="287" large_lead="-" large_lead_t="-"></special>
+      <summary vh="V" fgm="13" fga="28" fgm3="4" fga3="10" ftm="1" fta="3" blk="0" stl="2" ast="7"
+               oreb="5" dreb="14" treb="19" pf="10" tf="0" to="6"></summary>
+      <summary vh="H" fgm="10" fga="24" fgm3="2" fga3="7" ftm="8" fta="10" blk="0" stl="2" ast="6"
+               oreb="1" dreb="12" treb="13" pf="7" tf="0" to="4"></summary>
+      <play vh="H" time="19:39" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="GOOD" type="3PTR" vscore="0" hscore="3"></play>
+      <play vh="H" time="19:39" uni="22" team="BING" checkname="DAVIS,EVERSON" action="ASSIST"></play>
+      <play vh="H" time="19:17" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="FOUL"></play>
+      <play vh="V" time="19:17" uni="32" team="SFUM" checkname="NEBO,JOSH" action="GOOD" type="FT" vscore="1" hscore="3"></play>
+      <play vh="V" time="19:17" uni="32" team="SFUM" checkname="NEBO,JOSH" action="MISS" type="FT"></play>
+      <play vh="V" time="19:17" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="19:12" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="19:12" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="19:09" uni="32" team="SFUM" checkname="NEBO,JOSH" action="FOUL"></play>
+      <play vh="H" time="18:52" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="GOOD" type="JUMPER" paint="Y" vscore="1" hscore="5"></play>
+      <play vh="H" time="18:52" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="ASSIST"></play>
+      <play vh="V" time="18:30" uni="32" team="SFUM" checkname="NEBO,JOSH" action="GOOD" type="LAYUP" paint="Y" vscore="3" hscore="5"></play>
+      <play vh="V" time="18:30" uni="01" team="SFUM" checkname="HARMON,MALIK" action="ASSIST"></play>
+      <play vh="H" time="18:07" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="18:07" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="17:36" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="17:36" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="17:21" uni="01" team="SFUM" checkname="HARMON,MALIK" action="FOUL"></play>
+      <play vh="H" time="17:05" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="TURNOVER"></play>
+      <play vh="V" time="16:52" uni="01" team="SFUM" checkname="HARMON,MALIK" action="FOUL"></play>
+      <play vh="V" time="16:52" uni="01" team="SFUM" checkname="HARMON,MALIK" action="TURNOVER"></play>
+      <play vh="V" time="16:52" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="SUB" type="IN"></play>
+      <play vh="V" time="16:52" uni="01" team="SFUM" checkname="HARMON,MALIK" action="SUB" type="OUT"></play>
+      <play vh="H" time="16:40" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="16:40" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="16:26" uni="32" team="SFUM" checkname="NEBO,JOSH" action="GOOD" type="JUMPER" vscore="5" hscore="5"></play>
+      <play vh="H" time="16:08" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="GOOD" type="JUMPER" vscore="5" hscore="7"></play>
+      <play vh="H" time="16:08" uni="22" team="BING" checkname="DAVIS,EVERSON" action="ASSIST"></play>
+      <play vh="V" time="15:49" uni="32" team="SFUM" checkname="NEBO,JOSH" action="GOOD" type="DUNK" paint="Y" vscore="7" hscore="7"></play>
+      <play vh="V" time="15:49" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="ASSIST"></play>
+      <play vh="H" time="15:29" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="H" time="15:29" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="IN"></play>
+      <play vh="H" time="15:29" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="15:25" uni="32" team="SFUM" checkname="NEBO,JOSH" action="FOUL"></play>
+      <play vh="V" time="15:25" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="SUB" type="IN"></play>
+      <play vh="V" time="15:25" uni="32" team="SFUM" checkname="NEBO,JOSH" action="SUB" type="OUT"></play>
+      <play vh="H" time="15:11" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="JUMPER" vscore="7" hscore="9"></play>
+      <play vh="V" time="14:49" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="GOOD" type="JUMPER" vscore="9" hscore="9"></play>
+      <play vh="V" time="14:49" uni="12" team="SFUM" checkname="BROWN,GREG" action="ASSIST"></play>
+      <play vh="V" time="14:20" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="FOUL"></play>
+      <play vh="H" time="14:20" uni="32" team="BING" checkname="BRUCE,THOMAS" action="GOOD" type="FT" vscore="9" hscore="10"></play>
+      <play vh="H" time="14:20" uni="32" team="BING" checkname="BRUCE,THOMAS" action="GOOD" type="FT" vscore="9" hscore="11"></play>
+      <play vh="V" time="14:08" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="GOOD" type="JUMPER" vscore="11" hscore="11"></play>
+      <play vh="V" time="13:45" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="FOUL"></play>
+      <play vh="H" time="13:45" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="FT"></play>
+      <play vh="H" time="13:45" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="13:45" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="11" hscore="12"></play>
+      <play vh="H" time="13:45" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="11" hscore="13"></play>
+      <play vh="V" time="13:34" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="TURNOVER"></play>
+      <play vh="H" time="13:34" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="SUB" type="IN"></play>
+      <play vh="H" time="13:34" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="SUB" type="OUT"></play>
+      <play vh="H" time="13:19" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="13:19" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="13:06" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="MISS" type="3PTR"></play>
+      <play vh="H" time="13:06" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="12:37" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="3PTR"></play>
+      <play vh="V" time="12:37" uni="12" team="SFUM" checkname="BROWN,GREG" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="12:27" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="12:27" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="12:19" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="LAYUP" paint="Y" vscore="11" hscore="15"></play>
+      <play vh="H" time="12:19" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="ASSIST"></play>
+      <play vh="V" time="12:19" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="FOUL"></play>
+      <play vh="H" time="12:19" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="11" hscore="16"></play>
+      <play vh="V" time="12:19" uni="33" team="SFUM" checkname="WRENCHER,PATRICK" action="SUB" type="IN"></play>
+      <play vh="V" time="12:19" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="SUB" type="OUT"></play>
+      <play vh="H" time="12:19" uni="04" team="BING" checkname="ROSE,TIMMY" action="SUB" type="IN"></play>
+      <play vh="H" time="12:19" uni="22" team="BING" checkname="DAVIS,EVERSON" action="SUB" type="OUT"></play>
+      <play vh="V" time="12:06" uni="12" team="SFUM" checkname="BROWN,GREG" action="GOOD" type="JUMPER" paint="Y" vscore="13" hscore="16"></play>
+      <play vh="H" time="11:43" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="LAYUP" paint="Y" vscore="13" hscore="18"></play>
+      <play vh="H" time="11:26" uni="32" team="BING" checkname="BRUCE,THOMAS" action="FOUL"></play>
+      <play vh="V" time="11:26" uni="TM" team="SFUM" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="V" time="11:26" uni="23" team="SFUM" checkname="ANGELOU,GEORGIOS" action="SUB" type="IN"></play>
+      <play vh="V" time="11:26" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="SUB" type="OUT"></play>
+      <play vh="H" time="11:26" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="IN"></play>
+      <play vh="H" time="11:26" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="SUB" type="OUT"></play>
+      <play vh="V" time="11:15" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="11:15" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="11:08" uni="01" team="BING" checkname="II,MARLON BECK" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="11:08" uni="12" team="SFUM" checkname="BROWN,GREG" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="10:58" uni="12" team="SFUM" checkname="BROWN,GREG" action="MISS" type="3PTR"></play>
+      <play vh="V" time="10:58" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="10:51" uni="23" team="SFUM" checkname="ANGELOU,GEORGIOS" action="GOOD" type="3PTR" vscore="16" hscore="18"></play>
+      <play vh="H" time="10:26" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="10:26" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="10:10" uni="12" team="SFUM" checkname="BROWN,GREG" action="TURNOVER"></play>
+      <play vh="H" time="10:09" uni="32" team="BING" checkname="BRUCE,THOMAS" action="STEAL"></play>
+      <play vh="H" time="10:05" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="10:05" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="09:50" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="09:50" uni="TM" team="SFUM" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="09:48" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="SUB" type="IN"></play>
+      <play vh="V" time="09:48" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="SUB" type="OUT"></play>
+      <play vh="H" time="09:48" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="SUB" type="IN"></play>
+      <play vh="H" time="09:48" uni="01" team="BING" checkname="II,MARLON BECK" action="SUB" type="OUT"></play>
+      <play vh="V" time="09:44" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="09:44" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="09:39" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="09:39" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="09:37" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="GOOD" type="LAYUP" paint="Y" vscore="18" hscore="18"></play>
+      <play vh="H" time="09:37" uni="04" team="BING" checkname="ROSE,TIMMY" action="FOUL"></play>
+      <play vh="V" time="09:37" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="MISS" type="FT"></play>
+      <play vh="H" time="09:37" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="09:24" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="TURNOVER"></play>
+      <play vh="V" time="09:22" uni="12" team="SFUM" checkname="BROWN,GREG" action="STEAL"></play>
+      <play vh="V" time="09:07" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="GOOD" type="LAYUP" paint="Y" vscore="20" hscore="18"></play>
+      <play vh="V" time="09:07" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="ASSIST"></play>
+      <play vh="H" time="08:46" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="08:46" uni="33" team="SFUM" checkname="WRENCHER,PATRICK" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="08:33" uni="12" team="SFUM" checkname="BROWN,GREG" action="TURNOVER"></play>
+      <play vh="V" time="08:33" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="SUB" type="IN"></play>
+      <play vh="V" time="08:33" uni="12" team="SFUM" checkname="BROWN,GREG" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:33" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="SUB" type="IN"></play>
+      <play vh="H" time="08:33" uni="22" team="BING" checkname="DAVIS,EVERSON" action="SUB" type="IN"></play>
+      <play vh="H" time="08:33" uni="04" team="BING" checkname="ROSE,TIMMY" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:33" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="SUB" type="OUT"></play>
+      <play vh="H" time="08:14" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="LAYUP" paint="Y" vscore="20" hscore="20"></play>
+      <play vh="V" time="07:45" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="07:45" uni="22" team="BING" checkname="DAVIS,EVERSON" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:32" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="FOUL"></play>
+      <play vh="H" time="07:32" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="H" time="07:32" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="20" hscore="21"></play>
+      <play vh="H" time="07:32" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="20" hscore="22"></play>
+      <play vh="V" time="07:32" uni="12" team="SFUM" checkname="BROWN,GREG" action="SUB" type="IN"></play>
+      <play vh="V" time="07:32" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="SUB" type="OUT"></play>
+      <play vh="H" time="07:32" uni="01" team="BING" checkname="II,MARLON BECK" action="SUB" type="IN"></play>
+      <play vh="H" time="07:32" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:16" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="GOOD" type="3PTR" vscore="23" hscore="22"></play>
+      <play vh="V" time="07:16" uni="23" team="SFUM" checkname="ANGELOU,GEORGIOS" action="ASSIST"></play>
+      <play vh="H" time="06:43" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="GOOD" type="JUMPER" vscore="23" hscore="24"></play>
+      <play vh="H" time="06:43" uni="22" team="BING" checkname="DAVIS,EVERSON" action="ASSIST"></play>
+      <play vh="H" time="06:31" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="FOUL"></play>
+      <play vh="V" time="06:31" uni="32" team="SFUM" checkname="NEBO,JOSH" action="SUB" type="IN"></play>
+      <play vh="V" time="06:31" uni="33" team="SFUM" checkname="WRENCHER,PATRICK" action="SUB" type="OUT"></play>
+      <play vh="H" time="06:17" uni="22" team="BING" checkname="DAVIS,EVERSON" action="FOUL"></play>
+      <play vh="V" time="06:11" uni="23" team="SFUM" checkname="ANGELOU,GEORGIOS" action="GOOD" type="3PTR" vscore="26" hscore="24"></play>
+      <play vh="V" time="06:11" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="ASSIST"></play>
+      <play vh="H" time="05:38" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="GOOD" type="3PTR" vscore="26" hscore="27"></play>
+      <play vh="H" time="05:38" uni="01" team="BING" checkname="II,MARLON BECK" action="ASSIST"></play>
+      <play vh="V" time="05:12" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="05:12" uni="22" team="BING" checkname="DAVIS,EVERSON" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="05:02" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="05:02" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="04:56" uni="22" team="BING" checkname="DAVIS,EVERSON" action="FOUL"></play>
+      <play vh="V" time="04:33" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="TURNOVER"></play>
+      <play vh="V" time="04:33" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="FOUL"></play>
+      <play vh="H" time="04:14" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="TURNOVER"></play>
+      <play vh="H" time="04:14" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="FOUL"></play>
+      <play vh="H" time="04:13" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="IN"></play>
+      <play vh="H" time="04:13" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="03:56" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="03:56" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="03:48" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="26" hscore="29"></play>
+      <play vh="V" time="03:39" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="GOOD" type="3PTR" vscore="29" hscore="29"></play>
+      <play vh="H" time="03:16" uni="01" team="BING" checkname="II,MARLON BECK" action="MISS" type="3PTR"></play>
+      <play vh="V" time="03:16" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="02:48" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="MISS" type="3PTR"></play>
+      <play vh="H" time="02:48" uni="01" team="BING" checkname="II,MARLON BECK" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="02:39" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="02:39" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="02:19" uni="12" team="SFUM" checkname="BROWN,GREG" action="TURNOVER"></play>
+      <play vh="H" time="02:18" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="STEAL"></play>
+      <play vh="H" time="01:52" uni="32" team="BING" checkname="BRUCE,THOMAS" action="MISS" type="DUNK"></play>
+      <play vh="V" time="01:52" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="01:44" uni="32" team="SFUM" checkname="NEBO,JOSH" action="GOOD" type="DUNK" paint="Y" vscore="31" hscore="29"></play>
+      <play vh="V" time="01:44" uni="23" team="SFUM" checkname="ANGELOU,GEORGIOS" action="ASSIST"></play>
+      <play vh="H" time="01:41" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="V" time="01:41" uni="33" team="SFUM" checkname="WRENCHER,PATRICK" action="SUB" type="IN"></play>
+      <play vh="V" time="01:41" uni="32" team="SFUM" checkname="NEBO,JOSH" action="SUB" type="OUT"></play>
+      <play vh="H" time="01:41" uni="12" team="BING" checkname="RINALDI,JOHN" action="SUB" type="IN"></play>
+      <play vh="H" time="01:41" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="SUB" type="OUT"></play>
+      <play vh="H" time="01:41" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="OUT"></play>
+      <play vh="H" time="01:17" uni="12" team="BING" checkname="RINALDI,JOHN" action="TURNOVER"></play>
+      <play vh="V" time="01:16" uni="33" team="SFUM" checkname="WRENCHER,PATRICK" action="STEAL"></play>
+      <play vh="V" time="01:11" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="01:11" uni="22" team="BING" checkname="DAVIS,EVERSON" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:54" uni="32" team="BING" checkname="BRUCE,THOMAS" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="00:54" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="00:28" uni="33" team="SFUM" checkname="WRENCHER,PATRICK" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="00:28" uni="12" team="BING" checkname="RINALDI,JOHN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:22" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="H" time="00:22" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="SUB" type="IN"></play>
+      <play vh="H" time="00:22" uni="12" team="BING" checkname="RINALDI,JOHN" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:03" uni="33" team="SFUM" checkname="WRENCHER,PATRICK" action="FOUL"></play>
+      <play vh="H" time="00:03" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="FT" vscore="31" hscore="30"></play>
+      <play vh="H" time="00:03" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="FT"></play>
+      <play vh="H" time="00:03" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="00:03" uni="12" team="BING" checkname="RINALDI,JOHN" action="SUB" type="IN"></play>
+      <play vh="H" time="00:03" uni="22" team="BING" checkname="DAVIS,EVERSON" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:00" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="3PTR"></play>
+      <play vh="V" time="00:00" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="DEF"></play>
+      <clock time="00:00"></clock>
+    </period>
+    <period number="2" time="20:00">
+      <special vh="V" pts_to="9" pts_ch2="0" pts_paint="22" pts_fastb="2" pts_bench="9" ties="0" leads="0"
+               poss_count="38" poss_time="625" score_count="18" score_time="247" large_lead="-" large_lead_t="-"></special>
+      <special vh="H" pts_to="7" pts_ch2="5" pts_paint="8" pts_fastb="0" pts_bench="4" ties="0" leads="0"
+               poss_count="38" poss_time="575" score_count="17" score_time="252" large_lead="-" large_lead_t="-"></special>
+      <summary vh="V" fgm="12" fga="23" fgm3="0" fga3="2" ftm="12" fta="18" blk="4" stl="5" ast="7"
+               oreb="3" dreb="17" treb="20" pf="12" tf="1" to="8"></summary>
+      <summary vh="H" fgm="9" fga="26" fgm3="3" fga3="14" ftm="10" fta="19" blk="0" stl="3" ast="3"
+               oreb="6" dreb="13" treb="19" pf="12" tf="0" to="8"></summary>
+      <play vh="V" time="19:47" uni="32" team="SFUM" checkname="NEBO,JOSH" action="GOOD" type="LAYUP" paint="Y" vscore="33" hscore="30"></play>
+      <play vh="V" time="19:47" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="ASSIST"></play>
+      <play vh="H" time="19:34" uni="22" team="BING" checkname="DAVIS,EVERSON" action="TURNOVER"></play>
+      <play vh="V" time="19:33" uni="12" team="SFUM" checkname="BROWN,GREG" action="STEAL"></play>
+      <play vh="V" time="19:31" uni="12" team="SFUM" checkname="BROWN,GREG" action="GOOD" type="LAYUP" paint="Y" fastb="Y" vscore="35" hscore="30"></play>
+      <play vh="H" time="19:10" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="3PTR"></play>
+      <play vh="V" time="19:10" uni="32" team="SFUM" checkname="NEBO,JOSH" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="18:46" uni="32" team="SFUM" checkname="NEBO,JOSH" action="TURNOVER"></play>
+      <play vh="V" time="18:46" uni="32" team="SFUM" checkname="NEBO,JOSH" action="FOUL"></play>
+      <play vh="H" time="18:23" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="18:23" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="18:09" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="GOOD" type="LAYUP" paint="Y" vscore="37" hscore="30"></play>
+      <play vh="H" time="17:49" uni="01" team="BING" checkname="II,MARLON BECK" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="17:49" uni="12" team="SFUM" checkname="BROWN,GREG" action="BLOCK"></play>
+      <play vh="V" time="17:46" uni="01" team="SFUM" checkname="HARMON,MALIK" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="17:43" uni="01" team="SFUM" checkname="HARMON,MALIK" action="TURNOVER"></play>
+      <play vh="H" time="17:42" uni="01" team="BING" checkname="II,MARLON BECK" action="STEAL"></play>
+      <play vh="H" time="17:36" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="TURNOVER"></play>
+      <play vh="H" time="17:36" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="IN"></play>
+      <play vh="H" time="17:36" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="17:13" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="TURNOVER"></play>
+      <play vh="V" time="17:13" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="FOUL"></play>
+      <play vh="V" time="16:47" uni="12" team="SFUM" checkname="BROWN,GREG" action="FOUL"></play>
+      <play vh="H" time="16:47" uni="32" team="BING" checkname="BRUCE,THOMAS" action="GOOD" type="FT" vscore="37" hscore="31"></play>
+      <play vh="H" time="16:47" uni="32" team="BING" checkname="BRUCE,THOMAS" action="MISS" type="FT"></play>
+      <play vh="V" time="16:47" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="16:47" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="SUB" type="IN"></play>
+      <play vh="V" time="16:47" uni="32" team="SFUM" checkname="NEBO,JOSH" action="SUB" type="OUT"></play>
+      <play vh="V" time="16:25" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="GOOD" type="LAYUP" paint="Y" vscore="39" hscore="31"></play>
+      <play vh="V" time="16:25" uni="12" team="SFUM" checkname="BROWN,GREG" action="ASSIST"></play>
+      <play vh="H" time="16:07" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="3PTR"></play>
+      <play vh="V" time="16:07" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="15:48" uni="12" team="SFUM" checkname="BROWN,GREG" action="TURNOVER"></play>
+      <play vh="H" time="15:48" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="H" time="15:24" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="GOOD" type="LAYUP" paint="Y" vscore="39" hscore="33"></play>
+      <play vh="V" time="15:06" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="GOOD" type="LAYUP" paint="Y" vscore="41" hscore="33"></play>
+      <play vh="V" time="15:06" uni="01" team="SFUM" checkname="HARMON,MALIK" action="ASSIST"></play>
+      <play vh="H" time="14:38" uni="32" team="BING" checkname="BRUCE,THOMAS" action="TURNOVER"></play>
+      <play vh="V" time="14:36" uni="01" team="SFUM" checkname="HARMON,MALIK" action="STEAL"></play>
+      <play vh="H" time="14:33" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="FOUL"></play>
+      <play vh="V" time="14:33" uni="01" team="SFUM" checkname="HARMON,MALIK" action="GOOD" type="FT" vscore="42" hscore="33"></play>
+      <play vh="V" time="14:33" uni="01" team="SFUM" checkname="HARMON,MALIK" action="MISS" type="FT"></play>
+      <play vh="V" time="14:33" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="14:33" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="SUB" type="IN"></play>
+      <play vh="V" time="14:33" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="SUB" type="OUT"></play>
+      <play vh="V" time="14:24" uni="12" team="SFUM" checkname="BROWN,GREG" action="MISS" type="DUNK"></play>
+      <play vh="H" time="14:24" uni="01" team="BING" checkname="II,MARLON BECK" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="14:21" uni="01" team="SFUM" checkname="HARMON,MALIK" action="FOUL"></play>
+      <play vh="V" time="14:21" uni="23" team="SFUM" checkname="ANGELOU,GEORGIOS" action="SUB" type="IN"></play>
+      <play vh="V" time="14:21" uni="01" team="SFUM" checkname="HARMON,MALIK" action="SUB" type="OUT"></play>
+      <play vh="V" time="14:16" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="FOUL"></play>
+      <play vh="H" time="14:16" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="42" hscore="34"></play>
+      <play vh="H" time="14:16" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="42" hscore="35"></play>
+      <play vh="V" time="14:07" uni="12" team="SFUM" checkname="BROWN,GREG" action="TURNOVER"></play>
+      <play vh="H" time="14:06" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="STEAL"></play>
+      <play vh="V" time="13:54" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="FOUL"></play>
+      <play vh="H" time="13:54" uni="32" team="BING" checkname="BRUCE,THOMAS" action="GOOD" type="FT" vscore="42" hscore="36"></play>
+      <play vh="H" time="13:54" uni="32" team="BING" checkname="BRUCE,THOMAS" action="MISS" type="FT"></play>
+      <play vh="V" time="13:54" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="13:41" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="GOOD" type="LAYUP" paint="Y" vscore="44" hscore="36"></play>
+      <play vh="V" time="13:41" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="ASSIST"></play>
+      <play vh="H" time="13:10" uni="01" team="BING" checkname="II,MARLON BECK" action="MISS" type="3PTR"></play>
+      <play vh="V" time="13:10" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="13:02" uni="12" team="SFUM" checkname="BROWN,GREG" action="GOOD" type="DUNK" paint="Y" vscore="46" hscore="36"></play>
+      <play vh="H" time="12:47" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="12:47" uni="01" team="BING" checkname="II,MARLON BECK" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="12:37" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="FOUL"></play>
+      <play vh="H" time="12:37" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="MISS" type="FT"></play>
+      <play vh="H" time="12:37" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="12:37" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="SUB" type="IN"></play>
+      <play vh="V" time="12:37" uni="24" team="SFUM" checkname="BLACKMON,ISAIAH" action="SUB" type="OUT"></play>
+      <play vh="H" time="12:25" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="LAYUP" paint="Y" vscore="46" hscore="38"></play>
+      <play vh="V" time="12:07" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="12:07" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="11:46" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="TURNOVER"></play>
+      <play vh="V" time="11:45" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="STEAL"></play>
+      <play vh="V" time="11:41" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="GOOD" type="LAYUP" paint="Y" vscore="48" hscore="38"></play>
+      <play vh="V" time="11:41" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="ASSIST"></play>
+      <play vh="H" time="11:35" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="V" time="11:35" uni="32" team="SFUM" checkname="NEBO,JOSH" action="SUB" type="IN"></play>
+      <play vh="V" time="11:35" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="SUB" type="OUT"></play>
+      <play vh="H" time="11:35" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="IN"></play>
+      <play vh="H" time="11:35" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="OUT"></play>
+      <play vh="H" time="11:06" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="LAYUP" paint="Y" vscore="48" hscore="40"></play>
+      <play vh="H" time="10:53" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="FOUL"></play>
+      <play vh="V" time="10:53" uni="TM" team="SFUM" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="V" time="10:53" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="GOOD" type="FT" vscore="49" hscore="40"></play>
+      <play vh="V" time="10:53" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="GOOD" type="FT" vscore="50" hscore="40"></play>
+      <play vh="V" time="10:53" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="GOOD" type="FT" vscore="51" hscore="40"></play>
+      <play vh="V" time="10:43" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="FOUL"></play>
+      <play vh="H" time="10:43" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="51" hscore="41"></play>
+      <play vh="H" time="10:43" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="51" hscore="42"></play>
+      <play vh="H" time="10:32" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="FOUL"></play>
+      <play vh="V" time="10:30" uni="23" team="SFUM" checkname="ANGELOU,GEORGIOS" action="TURNOVER"></play>
+      <play vh="H" time="10:28" uni="01" team="BING" checkname="II,MARLON BECK" action="STEAL"></play>
+      <play vh="V" time="10:26" uni="12" team="SFUM" checkname="BROWN,GREG" action="FOUL"></play>
+      <play vh="H" time="10:26" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="51" hscore="43"></play>
+      <play vh="H" time="10:26" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="FT"></play>
+      <play vh="V" time="10:26" uni="23" team="SFUM" checkname="ANGELOU,GEORGIOS" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="10:14" uni="12" team="SFUM" checkname="BROWN,GREG" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="10:14" uni="01" team="BING" checkname="II,MARLON BECK" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="10:07" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="GOOD" type="3PTR" vscore="51" hscore="46"></play>
+      <play vh="H" time="10:07" uni="01" team="BING" checkname="II,MARLON BECK" action="ASSIST"></play>
+      <play vh="V" time="09:38" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="GOOD" type="JUMPER" vscore="53" hscore="46"></play>
+      <play vh="V" time="09:38" uni="12" team="SFUM" checkname="BROWN,GREG" action="ASSIST"></play>
+      <play vh="H" time="09:21" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="09:21" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="09:00" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="FOUL"></play>
+      <play vh="V" time="09:00" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="SUB" type="IN"></play>
+      <play vh="V" time="09:00" uni="01" team="SFUM" checkname="HARMON,MALIK" action="SUB" type="IN"></play>
+      <play vh="V" time="09:00" uni="32" team="SFUM" checkname="NEBO,JOSH" action="SUB" type="OUT"></play>
+      <play vh="V" time="09:00" uni="23" team="SFUM" checkname="ANGELOU,GEORGIOS" action="SUB" type="OUT"></play>
+      <play vh="V" time="08:43" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="08:43" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="08:38" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="MISS" type="DUNK"></play>
+      <play vh="V" time="08:38" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="08:34" uni="12" team="SFUM" checkname="BROWN,GREG" action="MISS" type="3PTR"></play>
+      <play vh="H" time="08:34" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="08:15" uni="12" team="SFUM" checkname="BROWN,GREG" action="FOUL" type="TECH"></play>
+      <play vh="H" time="08:15" uni="01" team="BING" checkname="II,MARLON BECK" action="MISS" type="FT"></play>
+      <play vh="H" time="08:15" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="08:15" uni="01" team="BING" checkname="II,MARLON BECK" action="MISS" type="FT"></play>
+      <play vh="H" time="08:15" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="08:07" uni="22" team="BING" checkname="DAVIS,EVERSON" action="TURNOVER"></play>
+      <play vh="V" time="08:06" uni="01" team="SFUM" checkname="HARMON,MALIK" action="STEAL"></play>
+      <play vh="H" time="08:00" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="IN"></play>
+      <play vh="H" time="08:00" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="OUT"></play>
+      <play vh="V" time="07:54" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="07:54" uni="01" team="BING" checkname="II,MARLON BECK" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:34" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="3PTR"></play>
+      <play vh="V" time="07:34" uni="01" team="SFUM" checkname="HARMON,MALIK" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="07:17" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="07:17" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="07:10" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="TURNOVER"></play>
+      <play vh="H" time="07:10" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="FOUL"></play>
+      <play vh="V" time="07:10" uni="TM" team="SFUM" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="H" time="07:10" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="IN"></play>
+      <play vh="H" time="07:10" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="SUB" type="OUT"></play>
+      <play vh="V" time="06:52" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="GOOD" type="LAYUP" paint="Y" vscore="55" hscore="46"></play>
+      <play vh="H" time="06:31" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="GOOD" type="3PTR" vscore="55" hscore="49"></play>
+      <play vh="H" time="06:31" uni="01" team="BING" checkname="II,MARLON BECK" action="ASSIST"></play>
+      <play vh="V" time="06:13" uni="01" team="SFUM" checkname="HARMON,MALIK" action="MISS" type="LAYUP"></play>
+      <play vh="H" time="06:13" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="06:11" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="TURNOVER"></play>
+      <play vh="V" time="06:04" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="MISS" type="JUMPER"></play>
+      <play vh="H" time="06:04" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="06:03" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="FOUL"></play>
+      <play vh="H" time="06:03" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="GOOD" type="FT" vscore="55" hscore="50"></play>
+      <play vh="H" time="06:03" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="FT"></play>
+      <play vh="V" time="06:03" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="05:50" uni="32" team="BING" checkname="BRUCE,THOMAS" action="FOUL"></play>
+      <play vh="V" time="05:50" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="GOOD" type="FT" vscore="56" hscore="50"></play>
+      <play vh="V" time="05:50" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="MISS" type="FT"></play>
+      <play vh="H" time="05:50" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="05:33" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="05:33" uni="32" team="BING" checkname="BRUCE,THOMAS" action="REBOUND" type="OFF"></play>
+      <play vh="V" time="05:28" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="FOUL"></play>
+      <play vh="H" time="05:28" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="FT"></play>
+      <play vh="H" time="05:28" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="H" time="05:28" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="FT" vscore="56" hscore="51"></play>
+      <play vh="V" time="05:28" uni="32" team="SFUM" checkname="NEBO,JOSH" action="SUB" type="IN"></play>
+      <play vh="V" time="05:28" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="SUB" type="OUT"></play>
+      <play vh="H" time="05:11" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="FOUL"></play>
+      <play vh="V" time="05:11" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="GOOD" type="FT" vscore="57" hscore="51"></play>
+      <play vh="V" time="05:11" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="GOOD" type="FT" vscore="58" hscore="51"></play>
+      <play vh="H" time="05:11" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="SUB" type="IN"></play>
+      <play vh="H" time="05:11" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="OUT"></play>
+      <play vh="H" time="04:48" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="04:48" uni="32" team="SFUM" checkname="NEBO,JOSH" action="BLOCK"></play>
+      <play vh="V" time="04:46" uni="01" team="SFUM" checkname="HARMON,MALIK" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="04:32" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="FOUL"></play>
+      <play vh="V" time="04:32" uni="01" team="SFUM" checkname="HARMON,MALIK" action="GOOD" type="FT" vscore="59" hscore="51"></play>
+      <play vh="V" time="04:32" uni="01" team="SFUM" checkname="HARMON,MALIK" action="MISS" type="FT"></play>
+      <play vh="H" time="04:32" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="04:20" uni="22" team="BING" checkname="DAVIS,EVERSON" action="GOOD" type="JUMPER" vscore="59" hscore="53"></play>
+      <play vh="V" time="03:56" uni="12" team="SFUM" checkname="BROWN,GREG" action="GOOD" type="LAYUP" paint="Y" vscore="61" hscore="53"></play>
+      <play vh="H" time="03:40" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="03:40" uni="32" team="SFUM" checkname="NEBO,JOSH" action="REBOUND" type="DEF"></play>
+      <play vh="V" time="03:11" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="TURNOVER"></play>
+      <play vh="H" time="03:11" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="MEDIA"></play>
+      <play vh="H" time="03:11" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="IN"></play>
+      <play vh="H" time="03:11" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="03:01" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="JUMPER" vscore="61" hscore="55"></play>
+      <play vh="V" time="02:31" uni="01" team="SFUM" checkname="HARMON,MALIK" action="MISS" type="3PTR"></play>
+      <play vh="H" time="02:31" uni="22" team="BING" checkname="DAVIS,EVERSON" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="02:24" uni="01" team="BING" checkname="II,MARLON BECK" action="MISS" type="3PTR"></play>
+      <play vh="H" time="02:24" uni="32" team="BING" checkname="BRUCE,THOMAS" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="02:18" uni="32" team="BING" checkname="BRUCE,THOMAS" action="MISS" type="LAYUP"></play>
+      <play vh="V" time="02:18" uni="32" team="SFUM" checkname="NEBO,JOSH" action="BLOCK"></play>
+      <play vh="H" time="02:17" uni="32" team="BING" checkname="BRUCE,THOMAS" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="02:16" uni="32" team="BING" checkname="BRUCE,THOMAS" action="GOOD" type="LAYUP" paint="Y" vscore="61" hscore="57"></play>
+      <play vh="V" time="01:55" uni="32" team="SFUM" checkname="NEBO,JOSH" action="TURNOVER"></play>
+      <play vh="H" time="01:41" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="TURNOVER"></play>
+      <play vh="V" time="01:39" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="STEAL"></play>
+      <play vh="V" time="01:15" uni="32" team="SFUM" checkname="NEBO,JOSH" action="GOOD" type="DUNK" paint="Y" vscore="63" hscore="57"></play>
+      <play vh="V" time="01:15" uni="12" team="SFUM" checkname="BROWN,GREG" action="ASSIST"></play>
+      <play vh="H" time="01:03" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="JUMPER"></play>
+      <play vh="V" time="01:03" uni="32" team="SFUM" checkname="NEBO,JOSH" action="BLOCK"></play>
+      <play vh="V" time="00:58" uni="12" team="SFUM" checkname="BROWN,GREG" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:51" uni="01" team="BING" checkname="II,MARLON BECK" action="FOUL"></play>
+      <play vh="V" time="00:51" uni="01" team="SFUM" checkname="HARMON,MALIK" action="MISS" type="FT"></play>
+      <play vh="H" time="00:51" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:51" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="IN"></play>
+      <play vh="H" time="00:51" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="OUT"></play>
+      <play vh="V" time="00:41" uni="01" team="SFUM" checkname="HARMON,MALIK" action="FOUL"></play>
+      <play vh="H" time="00:41" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="GOOD" type="FT" vscore="63" hscore="58"></play>
+      <play vh="H" time="00:41" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="MISS" type="FT"></play>
+      <play vh="V" time="00:41" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:41" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="IN"></play>
+      <play vh="H" time="00:41" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:39" uni="22" team="BING" checkname="DAVIS,EVERSON" action="FOUL"></play>
+      <play vh="V" time="00:39" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="MISS" type="FT"></play>
+      <play vh="V" time="00:39" uni="TM" team="SFUM" checkname="TEAM" action="REBOUND" type="DEADB"></play>
+      <play vh="V" time="00:39" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="GOOD" type="FT" vscore="64" hscore="58"></play>
+      <play vh="H" time="00:39" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="IN"></play>
+      <play vh="H" time="00:39" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:38" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="H" time="00:35" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="GOOD" type="3PTR" vscore="64" hscore="61"></play>
+      <play vh="H" time="00:35" uni="22" team="BING" checkname="DAVIS,EVERSON" action="ASSIST"></play>
+      <play vh="H" time="00:33" uni="TM" team="BING" checkname="TEAM" action="TIMEOUT" type="30SEC"></play>
+      <play vh="H" time="00:33" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="IN"></play>
+      <play vh="H" time="00:33" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:31" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="FOUL"></play>
+      <play vh="V" time="00:31" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="GOOD" type="FT" vscore="65" hscore="61"></play>
+      <play vh="V" time="00:31" uni="40" team="SFUM" checkname="DRINNON,RONNIE" action="GOOD" type="FT" vscore="66" hscore="61"></play>
+      <play vh="V" time="00:31" uni="35" team="SFUM" checkname="THOMPSON,BASIL" action="SUB" type="IN"></play>
+      <play vh="V" time="00:31" uni="32" team="SFUM" checkname="NEBO,JOSH" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:31" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="SUB" type="IN"></play>
+      <play vh="H" time="00:31" uni="32" team="BING" checkname="BRUCE,THOMAS" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:30" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="SUB" type="IN"></play>
+      <play vh="H" time="00:30" uni="42" team="BING" checkname="RODRIGUEZ,WILLIE" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:27" uni="30" team="BING" checkname="SCHURMAN,JOHN" action="MISS" type="3PTR"></play>
+      <play vh="V" time="00:27" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:24" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="FOUL"></play>
+      <play vh="V" time="00:24" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="GOOD" type="FT" vscore="67" hscore="61"></play>
+      <play vh="V" time="00:24" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="MISS" type="FT"></play>
+      <play vh="H" time="00:24" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="REBOUND" type="DEF"></play>
+      <play vh="H" time="00:24" uni="04" team="BING" checkname="ROSE,TIMMY" action="SUB" type="IN"></play>
+      <play vh="H" time="00:24" uni="25" team="BING" checkname="MCFADDEN,JUSTIN" action="SUB" type="OUT"></play>
+      <play vh="H" time="00:16" uni="41" team="BING" checkname="PEROVIC,DUSAN" action="MISS" type="3PTR"></play>
+      <play vh="H" time="00:16" uni="TM" team="BING" checkname="TEAM" action="REBOUND" type="OFF"></play>
+      <play vh="H" time="00:12" uni="22" team="BING" checkname="DAVIS,EVERSON" action="MISS" type="3PTR"></play>
+      <play vh="V" time="00:12" uni="11" team="SFUM" checkname="MILLAUD-MEUNIER,BEN" action="REBOUND" type="DEF"></play>
+      <clock time="00:00"></clock>
+    </period>
+  </plays>
+</bbgame>
