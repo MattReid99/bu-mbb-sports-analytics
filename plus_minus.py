@@ -4,6 +4,12 @@
 # Standard imports
 import untangle
 
+# For bokeh
+from bokeh.io import output_file, show
+from bokeh.models import ColumnDataSource
+from bokeh.palettes import Category20, d3
+from bokeh.plotting import figure
+
 # =========================================================================================
 # Utility functions for turning strings in format "mm:ss" into integer secs, and vice versa
 # =========================================================================================
@@ -19,6 +25,13 @@ def minutes_secs2str(seconds):
     '''
     minutes = str(int(seconds / 60)).zfill(2) + ":" + str(int(seconds % 60)).zfill(2)
     return minutes
+
+def tuple_2_str(tup):
+    s = "5"
+    for t in tup:
+       s += "-"
+       s += t[:4] 
+    return s
 
 # ==================
 # Stint Class
@@ -348,6 +361,40 @@ class Game(object):
             
         print("[FINAL] Home: %d Away %d " % (self.hscore, self.vscore))
 
+    def plot_game(self):
+        '''
+        '''
+        output_file("simple_plus_minus.html")    
+
+        pms = []
+        fvs = []
+        print("PLOT GAME")
+
+        fives = self.on_court.all_fives.keys()
+        for f in fives:
+            name5 = tuple_2_str(f)
+            fvs.append(name5)
+            pms.append(self.on_court.all_fives[f].plusminus)
+
+        print(fvs)
+        print(pms)
+        #source = ColumnDataSource(data=dict(fvs=fvs, pms=pms, color=d3['Category20'][len(pms)])) 
+        source = ColumnDataSource(data=dict(fvs=fvs, pms=pms, 
+           color=["green" if x > 0 else "red" for x in pms])) 
+
+        p = figure(y_range=fvs, x_range=(min(pm for pm in pms) - 2, max(pm for pm in pms) + 2), 
+           plot_height=350, title="Plus Minus for All Groups of Five",
+           toolbar_location=None, tools="")
+
+        #p.hbar(y='fvs', right='pms', height=0.9, color='color', legend="fvs", source=source)
+        p.hbar(y='fvs', right='pms', height=0.9, color='color', legend=None, source=source)
+
+        p.xgrid.grid_line_color = None
+        p.legend.orientation = "vertical"
+        p.legend.location = "top_center"
+
+        show(p)
+
 # ======
 # main()
 # ======
@@ -361,6 +408,7 @@ def main():
     game.process_plays()
 
     game.on_court.show_tracking_data()
+    game.plot_game()
 
 if __name__ == "__main__":
     main()
