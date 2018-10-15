@@ -3,12 +3,19 @@
 
 # Standard imports
 import untangle
+import sys
+import os
+import pathlib
 
 # For bokeh
 from bokeh.io import output_file, show
 from bokeh.models import ColumnDataSource
 from bokeh.palettes import Category20, d3
 from bokeh.plotting import figure
+
+#exclude_dirs = ["M2015-16"]
+exclude_dirs = []
+exclude_files = ["TEAM.XML", ".DS_Store"]
 
 # =========================================================================================
 # Utility functions for turning strings in format "mm:ss" into integer secs, and vice versa
@@ -189,7 +196,7 @@ class FiveTracker(object):
             print("FiveTracker::set_lineup() requires a list of 5 players.")
             print("    Received: ",)
             print(five)
-            exit()
+            return False
         self.current_five = five
         self.current_five.sort() 
         return True
@@ -313,11 +320,11 @@ class Game(object):
             if play['type'] == 'IN': 
                 if not self.on_court.sub_in(play['checkname']):
                     print("Tried to sub in a player already in the game.")
-                    exit()
+                    return False
             elif play['type'] == 'OUT': 
                 if not self.on_court.sub_out(play['checkname']):
                     print("Tried to sub out a player who was not in the game.")
-                    exit()
+                    return False
             self.on_court.show_current_five()
 
         elif play['action'] == 'GOOD':
@@ -339,6 +346,7 @@ class Game(object):
             print("[%s] %s %s %s (%s)." % \
                (play['time'], play['action'], play['type'], 
                play['checkname'], play['team']))
+        return True
 
     def process_plays(self):
         '''
@@ -351,15 +359,20 @@ class Game(object):
             for per in item.period:
                 self.on_court.reset(int(per['number']))
                 starters = self.get_starters(int(per['number']))
-                self.on_court.set_lineup(starters)
-                print ("")
-                print ("BEGIN HALF %s" % per['number'])
-                self.on_court.show_current_five()
-                for play in per.play:
-                    self.log_play(per,play)
-                self.on_court.new_stint('00:00', half=int(per['number']))
-            
+                set_lineup = self.on_court.set_lineup(starters)
+                if set_lineup:
+                    print ("")
+                    print ("BEGIN HALF %s" % per['number'])
+                    self.on_court.show_current_five()
+                    for play in per.play:
+                        logged = self.log_play(per,play)
+                        if not logged: 
+                            return False
+                    self.on_court.new_stint('00:00', half=int(per['number']))
+                else: 
+                    return False
         print("[FINAL] Home: %d Away %d " % (self.hscore, self.vscore))
+        return True
 
     def plot_game(self):
         '''
@@ -395,20 +408,49 @@ class Game(object):
 
         show(p)
 
+
+def build_game_file_list(top_level_directory):
+    '''
+    '''
+    game_file_list = []
+    for root, dirs, files in os.walk(top_level_directory, topdown=True):
+        for name in dirs:
+            dirs[:] = [d for d in dirs if d not in exclude_dirs]
+        for name in files:
+            if name not in exclude_files:
+                game_file = os.path.join(root, name) 
+                game_file_list.append(game_file) 
+
+    return game_file_list 
+
+
 # ======
 # main()
 # ======
 def main():
     ''' 
     '''
-    game = Game("GameEventData/MensBBXML/M2017-18/17-10.XML")
+    game_file_list = build_game_file_list("GameEventData/MensBBXML")
 
-    game.show_source()
-    game.show_venue()
-    game.process_plays()
+    good_count = 0
+    bad_count = 0
+    for game_file in game_file_list:
+        game = Game(game_file)
+        game.show_source()
+        game.show_venue()
+        good_game = game.process_plays()
+        if good_game:
+           good_count += 1
+           game.on_court.show_tracking_data()
+        else:
+           bad_count += 1  
 
-    game.on_court.show_tracking_data()
+    print("%d Total Games" % len(game_file_list))
+    print("%d Games successfully processed." % good_count)
+    print("%d Games NOT successfully processed." % bad_count)
     game.plot_game()
+
+    return
 
 if __name__ == "__main__":
     main()
