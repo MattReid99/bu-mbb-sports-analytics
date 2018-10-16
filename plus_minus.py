@@ -257,7 +257,39 @@ class FiveTracker(object):
 
 class Game(object):
     ''' 
-    ''' 
+    '''
+    
+    def get_starters_h2(self):
+        '''
+        '''
+        not_starters = []
+        starters = []
+        counter = 0
+        subOccured = False
+        #    gets second half starters
+        for item in self.game_info.bbgame.plays:
+
+            for per in item.period:
+                if per['number'] == '2':
+
+                    for play in per.play:
+#                        before any subs occur, record any instances of player activity
+                        if play['team'] == 'BING' and play['action'] != 'SUB' and play['checkname'] not in not_starters and play['checkname'] not in starters and play['checkname'] != 'TEAM' and counter < 5:
+                            starters.append(play['checkname'])
+                            counter += 1
+
+                        elif play['action'] == 'SUB' and play['team'] == 'BING' and play['type'] == 'IN' and play['checkname'] not in starters:
+                            not_starters.append(play['checkname'])
+                        elif play['action'] == 'SUB' and play['team'] == 'BING' and play['type'] == 'OUT' and counter < 5:
+                            if play['checkname'] not in not_starters and play['checkname'] not in starters:
+                                starters.append(play['checkname'])
+                                counter += 1
+        print("\n SECOND HALF STARTERS:\t %s \n" % starters)
+        return starters
+
+
+
+
     def get_starters(self, half=1):
         '''
         '''
@@ -341,11 +373,12 @@ class Game(object):
                 points *= -1
 
             self.on_court.update_plusminus(points); 
-        else:
-            print("Not doing anything with: ", end='')
-            print("[%s] %s %s %s (%s)." % \
-               (play['time'], play['action'], play['type'], 
-               play['checkname'], play['team']))
+#        else:
+
+#            print("Not doing anything with: ", end='')
+#            print("[%s] %s %s %s (%s)." % \
+#               (play['time'], play['action'], play['type'],
+#               play['checkname'], play['team']))
         return True
 
     def process_plays(self):
@@ -358,7 +391,13 @@ class Game(object):
         for item in self.game_info.bbgame.plays:
             for per in item.period:
                 self.on_court.reset(int(per['number']))
-                starters = self.get_starters(int(per['number']))
+                
+#                only get starters for first half, second half set to last []
+                if int(per['number']) == 1:
+                    starters = self.get_starters(int(per['number']))
+                if int(per['number']) == 2:
+                    starters = self.get_starters_h2()
+                
                 set_lineup = self.on_court.set_lineup(starters)
                 if set_lineup:
                     print ("")
@@ -396,7 +435,7 @@ class Game(object):
            color=["green" if x > 0 else "red" for x in pms])) 
 
         p = figure(y_range=fvs, x_range=(min(pm for pm in pms) - 2, max(pm for pm in pms) + 2), 
-           plot_height=350, title="Plus Minus for All Groups of Five",
+           plot_height=350, title="Plus Minus for All Lineups",
            toolbar_location=None, tools="")
 
         #p.hbar(y='fvs', right='pms', height=0.9, color='color', legend="fvs", source=source)
@@ -409,6 +448,7 @@ class Game(object):
         show(p)
 
 
+# generates array of all game XML files, 
 def build_game_file_list(top_level_directory):
     '''
     '''
