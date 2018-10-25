@@ -432,7 +432,7 @@ class Game(object):
         print(pms)
         #source = ColumnDataSource(data=dict(fvs=fvs, pms=pms, color=d3['Category20'][len(pms)])) 
         source = ColumnDataSource(data=dict(fvs=fvs, pms=pms, 
-           color=["green" if x > 0 else "red" for x in pms])) 
+           color=["blue" if x > 0 else "red" for x in pms]))
 
         p = figure(y_range=fvs, x_range=(min(pm for pm in pms) - 2, max(pm for pm in pms) + 2), 
            plot_height=350, title="Plus Minus for All Lineups",
