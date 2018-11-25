@@ -10,6 +10,8 @@ from bokeh.models import ColumnDataSource
 from bokeh.palettes import Category20, d3
 from bokeh.plotting import figure
 
+import pandas as pd
+
 # =========================================================================================
 # Utility functions for turning strings in format "mm:ss" into integer secs, and vice versa
 # =========================================================================================
@@ -383,7 +385,7 @@ class Game(object):
            color=["green" if x > 0 else "red" for x in pms])) 
 
         p = figure(y_range=fvs, x_range=(min(pm for pm in pms) - 2, max(pm for pm in pms) + 2), 
-           plot_height=350, title="Plus Minus for All Groups of Five",
+           plot_height=500, title="Plus Minus for All Groups of Five",
            toolbar_location=None, tools="")
 
         #p.hbar(y='fvs', right='pms', height=0.9, color='color', legend="fvs", source=source)
