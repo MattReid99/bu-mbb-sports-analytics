@@ -13,7 +13,6 @@ from bokeh.models import ColumnDataSource
 from bokeh.palettes import Category20, d3
 from bokeh.plotting import figure
 
-import pandas as pd
 #exclude_dirs = ["M2015-16"]
 exclude_dirs = []
 exclude_files = ["TEAM.XML", ".DS_Store"]
@@ -34,11 +33,7 @@ def minutes_secs2str(seconds):
     minutes = str(int(seconds / 60)).zfill(2) + ":" + str(int(seconds % 60)).zfill(2)
     return minutes
 
-
 def tuple_2_str(tup):
-    '''
-    Concatenates first 4 letters of each player to string s
-    '''
     s = "5"
     for t in tup:
        s += "-"
@@ -72,24 +67,7 @@ class Stint(object):
         self.plusminus = 0
         ''' self.plusminus is point differential during this stint
         '''
-        
-        self.reb_pm = 0
-        ''' self.reb_pm is rebound differential during this stint
-        '''
-        
-        self.tos_pm = 0
-        ''' self.tos_pm is TO differential during this stint
-        '''
-        
-        self.possessions = 0
-        ''' self.possessions is # of offensive possessions
-        '''
         return
-    
-    def update_possessions(self, possessions):
-    
-        return self.possessions
-
 
     def update_points(self, points):
         ''' Updates the plus-minus for this stint and returns the new value
@@ -99,18 +77,6 @@ class Stint(object):
 
         self.plusminus += points 
         return self.plusminus
-    
-    ''' Updates the rebound plus-minus for this stint and returns the new value
-        Rebounds are assumed to be negative for opponent rebounds, positive for this team's rebounds.
-    '''
-    def update_rebs(self, rebs):
-        self.reb_pm += rebs
-        return self.reb_pm
-    
-    def update_tos(self, tos):
-        self.tos_pm += tos
-        return self.tos_pm
-
 
     def show(self):
         ''' Prints the information stored in the stint object
@@ -135,17 +101,6 @@ class Five(object):
         ''' The overall plus-minus for the group of five. Also stored per stint so technically
             we could just calculate overall plus-minus from the stints and not store it here.
         '''
-        
-        self.reb_pm = 0
-        ''' The overall rebound plus-minus for the group of five. Also stored per stint so technically
-            we could just calculate overall reb plus-minus from the stints and not store it here.
-        '''
-        
-        self.tos_pm = 0
-        ''' The overall TO plus-minus for the group of five. Also stored per stint so technically
-            we could just calculate overall TO plus-minus from the stints and not store it here.
-        '''
-
 
         self.seconds_on_court = 0
         ''' The overall amount of time on the court for this group of five. Again, this is also
@@ -155,10 +110,6 @@ class Five(object):
         self.stints = []
         ''' An array of Stint objects representing the times this group of five appeared on the 
             court together
-        '''
-        
-        self.possessions = 0
-        ''' Number of offensive Binghamton possessions
         '''
         return
     
@@ -173,39 +124,6 @@ class Five(object):
             exit()
         self.plusminus += points
         return self.plusminus
-            
-    def update_rebs(self, rebs):
-        ''' Updates the reb plus-minus for this group of five, and returns the new value.
-            Rebs are assumed to be negative for opponent, positive for this team.
-            This function does NOT update the stint's reb plus minus. That is done insided FiveTracker,
-            and then the stint is added to this Five when it completes.
-        '''
-        if rebs > 0:
-            self.reb_pm += 1
-        else:
-            self.reb_pm -= 1
-        return self.reb_pm
-
-
-    def update_tos(self, tos):
-        ''' Updates the TO plus-minus for this group of five, and returns the new value.
-            Turnovers are assumed to be negative for opponent, positive for this team.
-            This function does NOT update the stint's reb plus minus. That is done insided FiveTracker,
-            and then the stint is added to this Five when it completes.
-        '''
-        if tos > 0:
-            self.tos_pm += 1
-        else:
-            self.tos_pm -= 1
-        return self.tos_pm
-
-
-    def update_possessions(self, possessions):
-        ''' Updates number of offensive possessions
-        '''
-        self.possessions += 1
-        return
-
 
     def log_stint(self, stint):
         ''' Log the stint in the Python list of stints and update the time on court for this Five
@@ -224,7 +142,6 @@ class Five(object):
         ''' 
         for stint in self.stints:
             stint.show()
-
 
 # =================
 # FiveTracker Class
@@ -317,27 +234,6 @@ class FiveTracker(object):
             self.all_fives[t] = Five()
         self.all_fives[t].update_points(points)
         return True
-            
-    def update_rebs(self, rebs):
-        '''
-        '''
-        self.current_stint.update_rebs(rebs)
-        t = tuple(self.current_five)
-        if t not in self.all_fives.keys():
-            self.all_fives[t] = Five()
-        self.all_fives[t].update_rebs(rebs)
-        return True
-
-    def update_tos(self, tos):
-        '''
-        '''
-        self.current_stint.update_tos(tos)
-        t = tuple(self.current_five)
-        if t not in self.all_fives.keys():
-            self.all_fives[t] = Five()
-        self.all_fives[t].update_tos(tos)
-        return True
-
 
     def show_current_five(self):
         '''
@@ -354,8 +250,6 @@ class FiveTracker(object):
             print("")
             print(lineup)
             print("Plus/Minus: %d" % self.all_fives[lineup].plusminus)
-            print("Rebound Plus/Minus: %d" % self.all_fives[lineup].reb_pm)
-            print("Turnover Plus/Minus: %d" % self.all_fives[lineup].tos_pm)
             print("   Minutes: %s" % self.all_fives[lineup].minutes())
             print("  # Stints: %d" % len(self.all_fives[lineup].stints))
             print("    Stints:")
@@ -478,32 +372,7 @@ class Game(object):
             if play['team'] != "BING":
                 points *= -1
 
-            self.on_court.update_plusminus(points);
-                
-        elif play['action'] == 'REBOUND':
-            rebs = 1
-            if play['vh'] == 'H':
-                self.hrebs += 1
-            if play['vh'] == 'V':
-                self.vrebs += 1
-            
-            if play['team'] != "BING":
-                rebs *= -1
-            
-            self.on_court.update_rebs(rebs);
-
-        elif play['action'] == 'TURNOVER':
-            tos = 1
-            if play['vh'] == 'H':
-                self.htos += 1
-            if play['vh'] == 'V':
-                self.vtos += 1
-    
-            if play['team'] != "BING":
-                tos *= -1
-            
-            self.on_court.update_tos(tos);
-
+            self.on_court.update_plusminus(points); 
 #        else:
 
 #            print("Not doing anything with: ", end='')
@@ -517,10 +386,6 @@ class Game(object):
         '''
         self.vscore = 0;
         self.hscore = 0;
-        self.hrebs = 0;
-        self.vrebs = 0;
-        self.htos = 0;
-        self.vtos = 0;
         self.time = "20:00";
 
         for item in self.game_info.bbgame.plays:
@@ -546,8 +411,6 @@ class Game(object):
                 else: 
                     return False
         print("[FINAL] Home: %d Away %d " % (self.hscore, self.vscore))
-        print("[FINAL *REBOUNDS*] Home: %d Away %d " % (self.hrebs, self.vrebs))
-        print("[FINAL *TURNOVERS*] Home: %d Away %d " % (self.htos, self.vtos))
         return True
 
     def plot_game(self):
@@ -572,11 +435,7 @@ class Game(object):
            color=["blue" if x > 0 else "red" for x in pms]))
 
         p = figure(y_range=fvs, x_range=(min(pm for pm in pms) - 2, max(pm for pm in pms) + 2), 
-<<<<<<< HEAD
-           plot_height=500, title="Plus Minus for All Groups of Five",
-=======
            plot_height=350, title="Plus Minus for All Lineups",
->>>>>>> origin/master
            toolbar_location=None, tools="")
 
         #p.hbar(y='fvs', right='pms', height=0.9, color='color', legend="fvs", source=source)
